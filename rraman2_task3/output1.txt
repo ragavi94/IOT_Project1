@@ -1,0 +1,2954 @@
+('CLA:', 2)
+('MC:', 0)
+Advancing MC to 2
+('new arrival entry,ID number:', 1)
+{1: <request.Request instance at 0x7fc95db13440>}
+next_CLA:2 5.85149621559
+
+('request completion time changed to:', 12)
+MC:2 CLA:7.85149621559 Buffer:1 CLS:12 CLR:[]
+
+
+('CLA:', 7.851496215586362)
+('MC:', 2)
+Advancing MC to 7.85149621559
+('new arrival entry,ID number:', 2)
+{1: <request.Request instance at 0x7fc95db13440>, 2: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:7.85149621559 8.12382247008
+
+('request completion time changed to:', 22)
+MC:7.85149621559 CLA:15.9753186857 Buffer:2 CLS:12 CLR:[]
+
+
+('CLA:', 15.975318685662144)
+('MC:', 7.851496215586362)
+Advancing MC to 12
+service completion entry
+('removing id from hashmap:', [1])
+('id:', [1], 'T:', 10, 'D:', 0)
+('CLA:', 15.975318685662144)
+('MC:', 12)
+Advancing MC to 15.9753186857
+('new arrival entry,ID number:', 3)
+{2: <request.Request instance at 0x7fc95db134d0>, 3: <request.Request instance at 0x7fc95db13440>}
+next_CLA:15.9753186857 9.51413980904
+
+('request completion time changed to:', 32)
+MC:15.9753186857 CLA:25.4894584947 Buffer:2 CLS:22 CLR:[]
+
+
+('CLA:', 25.489458494706604)
+('MC:', 15.975318685662144)
+Advancing MC to 22
+service completion entry
+('removing id from hashmap:', [2])
+('id:', [2], 'T:', 14.148503784413638, 'D:', 0)
+('CLA:', 25.489458494706604)
+('MC:', 22)
+Advancing MC to 25.4894584947
+('new arrival entry,ID number:', 4)
+{3: <request.Request instance at 0x7fc95db13440>, 4: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:25.4894584947 17.1306364487
+
+('request completion time changed to:', 42)
+MC:25.4894584947 CLA:42.6200949435 Buffer:2 CLS:32 CLR:[]
+
+
+('CLA:', 42.620094943456536)
+('MC:', 25.489458494706604)
+Advancing MC to 32
+service completion entry
+('removing id from hashmap:', [3])
+('id:', [3], 'T:', 16.024681314337855, 'D:', 0)
+('CLA:', 42.620094943456536)
+('MC:', 32)
+Advancing MC to 42
+service completion entry
+('removing id from hashmap:', [4])
+('id:', [4], 'T:', 16.510541505293396, 'D:', 0)
+('CLA:', 42.620094943456536)
+('MC:', 42)
+Advancing MC to 42.6200949435
+('new arrival entry,ID number:', 5)
+{5: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:42.6200949435 8.08010176128
+
+('request completion time changed to:', 52.620094943456536)
+MC:42.6200949435 CLA:50.7001967047 Buffer:1 CLS:52.6200949435 CLR:[]
+
+
+('CLA:', 50.70019670474019)
+('MC:', 42.620094943456536)
+Advancing MC to 50.7001967047
+('new arrival entry,ID number:', 6)
+{5: <request.Request instance at 0x7fc95db134d0>, 6: <request.Request instance at 0x7fc95db13560>}
+next_CLA:50.7001967047 15.3313306846
+
+('request completion time changed to:', 62.620094943456536)
+MC:50.7001967047 CLA:66.0315273894 Buffer:2 CLS:52.6200949435 CLR:[]
+
+
+('CLA:', 66.03152738937872)
+('MC:', 50.70019670474019)
+Advancing MC to 52.6200949435
+service completion entry
+('removing id from hashmap:', [5])
+('id:', [5], 'T:', 10.0, 'D:', 0)
+('CLA:', 66.03152738937872)
+('MC:', 52.620094943456536)
+Advancing MC to 62.6200949435
+service completion entry
+('removing id from hashmap:', [6])
+('id:', [6], 'T:', 11.919898238716343, 'D:', 0)
+('CLA:', 66.03152738937872)
+('MC:', 62.620094943456536)
+Advancing MC to 66.0315273894
+('new arrival entry,ID number:', 7)
+{7: <request.Request instance at 0x7fc95db13560>}
+next_CLA:66.0315273894 0.176605170825
+
+('request completion time changed to:', 76.03152738937872)
+MC:66.0315273894 CLA:66.2081325602 Buffer:1 CLS:76.0315273894 CLR:[]
+
+
+('CLA:', 66.20813256020345)
+('MC:', 66.03152738937872)
+Advancing MC to 66.2081325602
+('new arrival entry,ID number:', 8)
+{7: <request.Request instance at 0x7fc95db13560>, 8: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:66.2081325602 3.759918299
+
+('request completion time changed to:', 86.03152738937872)
+MC:66.2081325602 CLA:69.9680508592 Buffer:2 CLS:76.0315273894 CLR:[]
+
+
+('CLA:', 69.96805085920069)
+('MC:', 66.20813256020345)
+Advancing MC to 69.9680508592
+('new arrival entry,ID number:', 9)
+{7: <request.Request instance at 0x7fc95db13560>, 8: <request.Request instance at 0x7fc95db134d0>, 9: <request.Request instance at 0x7fc95db135a8>}
+next_CLA:69.9680508592 17.2258912121
+
+('request completion time changed to:', 96.03152738937872)
+MC:69.9680508592 CLA:87.1939420713 Buffer:3 CLS:76.0315273894 CLR:[]
+
+
+('CLA:', 87.19394207125696)
+('MC:', 69.96805085920069)
+Advancing MC to 76.0315273894
+service completion entry
+('removing id from hashmap:', [7])
+('id:', [7], 'T:', 10.0, 'D:', 0)
+('CLA:', 87.19394207125696)
+('MC:', 76.03152738937872)
+Advancing MC to 86.0315273894
+service completion entry
+('removing id from hashmap:', [8])
+('id:', [8], 'T:', 19.82339482917527, 'D:', 0)
+('CLA:', 87.19394207125696)
+('MC:', 86.03152738937872)
+Advancing MC to 87.1939420713
+('new arrival entry,ID number:', 10)
+{9: <request.Request instance at 0x7fc95db135a8>, 10: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:87.1939420713 6.28137935975
+
+('request completion time changed to:', 106.03152738937872)
+MC:87.1939420713 CLA:93.475321431 Buffer:2 CLS:96.0315273894 CLR:[]
+
+
+('CLA:', 93.47532143100938)
+('MC:', 87.19394207125696)
+Advancing MC to 93.475321431
+('new arrival entry,ID number:', 11)
+{9: <request.Request instance at 0x7fc95db135a8>, 10: <request.Request instance at 0x7fc95db134d0>, 11: <request.Request instance at 0x7fc95db13560>}
+next_CLA:93.475321431 13.8697847989
+
+('request completion time changed to:', 116.03152738937872)
+MC:93.475321431 CLA:107.34510623 Buffer:3 CLS:96.0315273894 CLR:[]
+
+
+('CLA:', 107.34510622995472)
+('MC:', 93.47532143100938)
+Advancing MC to 96.0315273894
+service completion entry
+('removing id from hashmap:', [9])
+('id:', [9], 'T:', 26.063476530178036, 'D:', 0)
+('CLA:', 107.34510622995472)
+('MC:', 96.03152738937872)
+Advancing MC to 106.031527389
+service completion entry
+('removing id from hashmap:', [10])
+('id:', [10], 'T:', 18.837585318121768, 'D:', 0)
+('CLA:', 107.34510622995472)
+('MC:', 106.03152738937872)
+Advancing MC to 107.34510623
+('new arrival entry,ID number:', 12)
+{11: <request.Request instance at 0x7fc95db13560>, 12: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:107.34510623 0.720855163822
+
+('request completion time changed to:', 126.03152738937872)
+MC:107.34510623 CLA:108.065961394 Buffer:2 CLS:116.031527389 CLR:[]
+
+
+('CLA:', 108.06596139377623)
+('MC:', 107.34510622995472)
+Advancing MC to 108.065961394
+('new arrival entry,ID number:', 13)
+{11: <request.Request instance at 0x7fc95db13560>, 12: <request.Request instance at 0x7fc95db134d0>, 13: <request.Request instance at 0x7fc95db135a8>}
+next_CLA:108.065961394 3.7987397981
+
+('request completion time changed to:', 136.0315273893787)
+MC:108.065961394 CLA:111.864701192 Buffer:3 CLS:116.031527389 CLR:[]
+
+
+('CLA:', 111.86470119187635)
+('MC:', 108.06596139377623)
+Advancing MC to 111.864701192
+('new arrival entry,ID number:', 14)
+{11: <request.Request instance at 0x7fc95db13560>, 12: <request.Request instance at 0x7fc95db134d0>, 13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>}
+next_CLA:111.864701192 1.69873754803
+
+('request completion time changed to:', 146.0315273893787)
+MC:111.864701192 CLA:113.56343874 Buffer:4 CLS:116.031527389 CLR:[]
+
+
+('CLA:', 113.5634387399049)
+('MC:', 111.86470119187635)
+Advancing MC to 113.56343874
+('new arrival entry,ID number:', 15)
+{11: <request.Request instance at 0x7fc95db13560>, 12: <request.Request instance at 0x7fc95db134d0>, 13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>}
+next_CLA:113.56343874 4.7084290526
+
+('request completion time changed to:', 156.0315273893787)
+MC:113.56343874 CLA:118.271867793 Buffer:5 CLS:116.031527389 CLR:[]
+
+
+('CLA:', 118.27186779250732)
+('MC:', 113.5634387399049)
+Advancing MC to 116.031527389
+service completion entry
+('removing id from hashmap:', [11])
+('id:', [11], 'T:', 22.556205958369347, 'D:', 0)
+('CLA:', 118.27186779250732)
+('MC:', 116.03152738937872)
+Advancing MC to 118.271867793
+('new arrival entry,ID number:', 16)
+{12: <request.Request instance at 0x7fc95db134d0>, 13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>, 16: <request.Request instance at 0x7fc95db13560>}
+next_CLA:118.271867793 5.11906731441
+
+('request completion time changed to:', 166.0315273893787)
+MC:118.271867793 CLA:123.390935107 Buffer:5 CLS:126.031527389 CLR:[]
+
+
+('CLA:', 123.39093510691663)
+('MC:', 118.27186779250732)
+Advancing MC to 123.390935107
+('new arrival entry,ID number:', 17)
+{12: <request.Request instance at 0x7fc95db134d0>, 13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>, 16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>}
+next_CLA:123.390935107 0.0792056390847
+
+full buffer: 123.390935107 1.22138780048
+
+('request trans_delay and buffer time after changes:', 123.39093510691663, 124.61232290740128)
+MC:123.390935107 CLA:123.470140746 Buffer:5 CLS:126.031527389 CLR:[124.61232290740128]
+
+
+('CLA:', 123.47014074600135)
+('MC:', 123.39093510691663)
+Advancing MC to 123.470140746
+('new arrival entry,ID number:', 18)
+{12: <request.Request instance at 0x7fc95db134d0>, 13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>, 16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>}
+next_CLA:123.470140746 1.96671233512
+
+full buffer: 123.470140746 12.4052926251
+
+('request trans_delay and buffer time after changes:', 123.47014074600135, 135.87543337114664)
+MC:123.470140746 CLA:125.436853081 Buffer:5 CLS:126.031527389 CLR:[124.61232290740128, 135.87543337114664]
+
+
+('CLA:', 125.43685308112403)
+('MC:', 123.47014074600135)
+Advancing MC to 124.612322907
+CLR entry after orbiting
+next_CLR124.612322907 7.25630783874
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 131.86863074613942)
+MC:124.612322907 CLA:125.436853081 Buffer:5 CLS:126.031527389 CLR:[131.86863074613942, 135.87543337114664]
+
+
+('CLA:', 125.43685308112403)
+('MC:', 124.61232290740128)
+Advancing MC to 125.436853081
+('new arrival entry,ID number:', 19)
+{12: <request.Request instance at 0x7fc95db134d0>, 13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>, 16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>}
+next_CLA:125.436853081 1.04329393409
+
+full buffer: 125.436853081 7.97636828972
+
+('request trans_delay and buffer time after changes:', 125.43685308112403, 133.41322137084651)
+MC:125.436853081 CLA:126.480147015 Buffer:5 CLS:126.031527389 CLR:[131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+
+('CLA:', 126.48014701521792)
+('MC:', 125.43685308112403)
+Advancing MC to 126.031527389
+service completion entry
+('removing id from hashmap:', [12])
+('id:', [12], 'T:', 18.686421159424, 'D:', 0)
+('CLA:', 126.48014701521792)
+('MC:', 126.03152738937872)
+Advancing MC to 126.480147015
+('new arrival entry,ID number:', 20)
+{13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>, 16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 20: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:126.480147015 0.896344088489
+
+('request completion time changed to:', 176.0315273893787)
+MC:126.480147015 CLA:127.376491104 Buffer:5 CLS:136.031527389 CLR:[131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+
+('CLA:', 127.37649110370698)
+('MC:', 126.48014701521792)
+Advancing MC to 127.376491104
+('new arrival entry,ID number:', 21)
+{13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>, 16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 20: <request.Request instance at 0x7fc95db134d0>, 21: <request.Request instance at 0x7fc95db13758>}
+next_CLA:127.376491104 5.76541502351
+
+full buffer: 127.376491104 0.67737630385
+
+('request trans_delay and buffer time after changes:', 127.37649110370698, 128.05386740755728)
+MC:127.376491104 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[128.05386740755728, 131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+
+('CLA:', 133.14190612721873)
+('MC:', 127.37649110370698)
+Advancing MC to 128.053867408
+CLR entry after orbiting
+next_CLR128.053867408 0.00888219568312
+('id of  the request that has come after reorbiting:', 21)
+('request trans_delay and buffer time after changes:', 127.37649110370698, 128.0627496032404)
+MC:128.053867408 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[128.0627496032404, 131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+
+('CLA:', 133.14190612721873)
+('MC:', 128.05386740755728)
+Advancing MC to 128.062749603
+CLR entry after orbiting
+next_CLR128.062749603 10.2554268154
+('id of  the request that has come after reorbiting:', 21)
+('request trans_delay and buffer time after changes:', 127.37649110370698, 138.31817641859746)
+MC:128.062749603 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[131.86863074613942, 133.41322137084651, 135.87543337114664, 138.31817641859746]
+
+
+('CLA:', 133.14190612721873)
+('MC:', 128.0627496032404)
+Advancing MC to 131.868630746
+CLR entry after orbiting
+next_CLR131.868630746 1.17517223373
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 133.04380297986708)
+MC:131.868630746 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[133.04380297986708, 133.41322137084651, 135.87543337114664, 138.31817641859746]
+
+
+('CLA:', 133.14190612721873)
+('MC:', 131.86863074613942)
+Advancing MC to 133.04380298
+CLR entry after orbiting
+next_CLR133.04380298 1.2134235178
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 134.2572264976646)
+MC:133.04380298 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[133.41322137084651, 134.2572264976646, 135.87543337114664, 138.31817641859746]
+
+
+('CLA:', 133.14190612721873)
+('MC:', 133.04380297986708)
+Advancing MC to 133.141906127
+('new arrival entry,ID number:', 22)
+{13: <request.Request instance at 0x7fc95db135a8>, 14: <request.Request instance at 0x7fc95db135f0>, 15: <request.Request instance at 0x7fc95db13638>, 16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 20: <request.Request instance at 0x7fc95db134d0>, 21: <request.Request instance at 0x7fc95db13758>, 22: <request.Request instance at 0x7fc95db137a0>}
+next_CLA:133.141906127 24.2463387712
+
+full buffer: 133.141906127 10.2945788379
+
+('request trans_delay and buffer time after changes:', 133.14190612721873, 143.43648496511142)
+MC:133.141906127 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[133.41322137084651, 134.2572264976646, 135.87543337114664, 138.31817641859746, 143.43648496511142]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 133.14190612721873)
+Advancing MC to 133.413221371
+CLR entry after orbiting
+next_CLR133.413221371 1.70756075262
+('id of  the request that has come after reorbiting:', 19)
+('request trans_delay and buffer time after changes:', 125.43685308112403, 135.12078212346444)
+MC:133.413221371 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[134.2572264976646, 135.12078212346444, 135.87543337114664, 138.31817641859746, 143.43648496511142]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 133.41322137084651)
+Advancing MC to 134.257226498
+CLR entry after orbiting
+next_CLR134.257226498 16.2826274274
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 150.5398539250308)
+MC:134.257226498 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[135.12078212346444, 135.87543337114664, 138.31817641859746, 143.43648496511142, 150.5398539250308]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 134.2572264976646)
+Advancing MC to 135.120782123
+CLR entry after orbiting
+next_CLR135.120782123 3.87421050803
+('id of  the request that has come after reorbiting:', 19)
+('request trans_delay and buffer time after changes:', 125.43685308112403, 138.9949926314979)
+MC:135.120782123 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[135.87543337114664, 138.31817641859746, 138.9949926314979, 143.43648496511142, 150.5398539250308]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 135.12078212346444)
+Advancing MC to 135.875433371
+CLR entry after orbiting
+next_CLR135.875433371 5.66338701904
+('id of  the request that has come after reorbiting:', 18)
+('request trans_delay and buffer time after changes:', 123.47014074600135, 141.5388203901847)
+MC:135.875433371 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[138.31817641859746, 138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 135.87543337114664)
+Advancing MC to 136.031527389
+service completion entry
+('removing id from hashmap:', [13])
+('id:', [13], 'T:', 27.965565995602475, 'D:', 0)
+('CLA:', 157.3882448983869)
+('MC:', 136.0315273893787)
+Advancing MC to 138.318176419
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 21)
+('request completion time changed to:', 186.0315273893787)
+MC:138.318176419 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 138.31817641859746)
+Advancing MC to 138.994992631
+CLR entry after orbiting
+next_CLR138.994992631 1.14567931285
+('id of  the request that has come after reorbiting:', 19)
+('request trans_delay and buffer time after changes:', 125.43685308112403, 140.14067194435003)
+MC:138.994992631 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[140.14067194435003, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 138.9949926314979)
+Advancing MC to 140.140671944
+CLR entry after orbiting
+next_CLR140.140671944 14.1490557828
+('id of  the request that has come after reorbiting:', 19)
+('request trans_delay and buffer time after changes:', 125.43685308112403, 154.28972772715494)
+MC:140.140671944 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[141.5388203901847, 143.43648496511142, 150.5398539250308, 154.28972772715494]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 140.14067194435003)
+Advancing MC to 141.53882039
+CLR entry after orbiting
+next_CLR141.53882039 5.86627953146
+('id of  the request that has come after reorbiting:', 18)
+('request trans_delay and buffer time after changes:', 123.47014074600135, 147.40509992164448)
+MC:141.53882039 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[143.43648496511142, 147.40509992164448, 150.5398539250308, 154.28972772715494]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 141.5388203901847)
+Advancing MC to 143.436484965
+CLR entry after orbiting
+next_CLR143.436484965 16.9906572797
+('id of  the request that has come after reorbiting:', 22)
+('request trans_delay and buffer time after changes:', 133.14190612721873, 160.4271422447875)
+MC:143.436484965 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[147.40509992164448, 150.5398539250308, 154.28972772715494, 160.4271422447875]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 143.43648496511142)
+Advancing MC to 146.031527389
+service completion entry
+('removing id from hashmap:', [14])
+('id:', [14], 'T:', 34.16682619750236, 'D:', 0)
+('CLA:', 157.3882448983869)
+('MC:', 146.0315273893787)
+Advancing MC to 147.405099922
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 18)
+('request completion time changed to:', 196.0315273893787)
+MC:147.405099922 CLA:157.388244898 Buffer:5 CLS:156.031527389 CLR:[150.5398539250308, 154.28972772715494, 160.4271422447875]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 147.40509992164448)
+Advancing MC to 150.539853925
+CLR entry after orbiting
+next_CLR150.539853925 11.2094107278
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 161.74926465279668)
+MC:150.539853925 CLA:157.388244898 Buffer:5 CLS:156.031527389 CLR:[154.28972772715494, 160.4271422447875, 161.74926465279668]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 150.5398539250308)
+Advancing MC to 154.289727727
+CLR entry after orbiting
+next_CLR154.289727727 1.77473146497
+('id of  the request that has come after reorbiting:', 19)
+('request trans_delay and buffer time after changes:', 125.43685308112403, 156.06445919212513)
+MC:154.289727727 CLA:157.388244898 Buffer:5 CLS:156.031527389 CLR:[156.06445919212513, 160.4271422447875, 161.74926465279668]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 154.28972772715494)
+Advancing MC to 156.031527389
+service completion entry
+('removing id from hashmap:', [15])
+('id:', [15], 'T:', 42.46808864947381, 'D:', 0)
+('CLA:', 157.3882448983869)
+('MC:', 156.0315273893787)
+Advancing MC to 156.064459192
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 19)
+('request completion time changed to:', 206.0315273893787)
+MC:156.064459192 CLA:157.388244898 Buffer:5 CLS:166.031527389 CLR:[160.4271422447875, 161.74926465279668]
+
+
+('CLA:', 157.3882448983869)
+('MC:', 156.06445919212513)
+Advancing MC to 157.388244898
+('new arrival entry,ID number:', 23)
+{16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 20: <request.Request instance at 0x7fc95db134d0>, 21: <request.Request instance at 0x7fc95db13758>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>}
+next_CLA:157.388244898 2.68888863735
+
+full buffer: 157.388244898 0.907345943593
+
+('request trans_delay and buffer time after changes:', 157.3882448983869, 158.29559084197965)
+MC:157.388244898 CLA:160.077133536 Buffer:5 CLS:166.031527389 CLR:[158.29559084197965, 160.4271422447875, 161.74926465279668]
+
+
+('CLA:', 160.07713353574064)
+('MC:', 157.3882448983869)
+Advancing MC to 158.295590842
+CLR entry after orbiting
+next_CLR158.295590842 0.78737547019
+('id of  the request that has come after reorbiting:', 23)
+('request trans_delay and buffer time after changes:', 157.3882448983869, 159.08296631216953)
+MC:158.295590842 CLA:160.077133536 Buffer:5 CLS:166.031527389 CLR:[159.08296631216953, 160.4271422447875, 161.74926465279668]
+
+
+('CLA:', 160.07713353574064)
+('MC:', 158.29559084197965)
+Advancing MC to 159.082966312
+CLR entry after orbiting
+next_CLR159.082966312 0.336790934644
+('id of  the request that has come after reorbiting:', 23)
+('request trans_delay and buffer time after changes:', 157.3882448983869, 159.41975724681393)
+MC:159.082966312 CLA:160.077133536 Buffer:5 CLS:166.031527389 CLR:[159.41975724681393, 160.4271422447875, 161.74926465279668]
+
+
+('CLA:', 160.07713353574064)
+('MC:', 159.08296631216953)
+Advancing MC to 159.419757247
+CLR entry after orbiting
+next_CLR159.419757247 1.79309201881
+('id of  the request that has come after reorbiting:', 23)
+('request trans_delay and buffer time after changes:', 157.3882448983869, 161.21284926562268)
+MC:159.419757247 CLA:160.077133536 Buffer:5 CLS:166.031527389 CLR:[160.4271422447875, 161.21284926562268, 161.74926465279668]
+
+
+('CLA:', 160.07713353574064)
+('MC:', 159.41975724681393)
+Advancing MC to 160.077133536
+('new arrival entry,ID number:', 24)
+{16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 20: <request.Request instance at 0x7fc95db134d0>, 21: <request.Request instance at 0x7fc95db13758>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>}
+next_CLA:160.077133536 5.54457664945
+
+full buffer: 160.077133536 0.0169442753135
+
+('request trans_delay and buffer time after changes:', 160.07713353574064, 160.09407781105418)
+MC:160.077133536 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[160.09407781105418, 160.4271422447875, 161.21284926562268, 161.74926465279668]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 160.07713353574064)
+Advancing MC to 160.094077811
+CLR entry after orbiting
+next_CLR160.094077811 5.66499780166
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 165.7590756127102)
+MC:160.094077811 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[160.4271422447875, 161.21284926562268, 161.74926465279668, 165.7590756127102]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 160.09407781105418)
+Advancing MC to 160.427142245
+CLR entry after orbiting
+next_CLR160.427142245 2.06166968518
+('id of  the request that has come after reorbiting:', 22)
+('request trans_delay and buffer time after changes:', 133.14190612721873, 162.4888119299634)
+MC:160.427142245 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[161.21284926562268, 161.74926465279668, 162.4888119299634, 165.7590756127102]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 160.4271422447875)
+Advancing MC to 161.212849266
+CLR entry after orbiting
+next_CLR161.212849266 1.85501357279
+('id of  the request that has come after reorbiting:', 23)
+('request trans_delay and buffer time after changes:', 157.3882448983869, 163.06786283841382)
+MC:161.212849266 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[161.74926465279668, 162.4888119299634, 163.06786283841382, 165.7590756127102]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 161.21284926562268)
+Advancing MC to 161.749264653
+CLR entry after orbiting
+next_CLR161.749264653 8.53299607534
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 170.28226072813908)
+MC:161.749264653 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[162.4888119299634, 163.06786283841382, 165.7590756127102, 170.28226072813908]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 161.74926465279668)
+Advancing MC to 162.48881193
+CLR entry after orbiting
+next_CLR162.48881193 3.27680273209
+('id of  the request that has come after reorbiting:', 22)
+('request trans_delay and buffer time after changes:', 133.14190612721873, 165.76561466205445)
+MC:162.48881193 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[163.06786283841382, 165.7590756127102, 165.76561466205445, 170.28226072813908]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 162.4888119299634)
+Advancing MC to 163.067862838
+CLR entry after orbiting
+next_CLR163.067862838 1.89747465132
+('id of  the request that has come after reorbiting:', 23)
+('request trans_delay and buffer time after changes:', 157.3882448983869, 164.9653374897328)
+MC:163.067862838 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[164.9653374897328, 165.7590756127102, 165.76561466205445, 170.28226072813908]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 163.06786283841382)
+Advancing MC to 164.96533749
+CLR entry after orbiting
+next_CLR164.96533749 3.2813613355
+('id of  the request that has come after reorbiting:', 23)
+('request trans_delay and buffer time after changes:', 157.3882448983869, 168.24669882523347)
+MC:164.96533749 CLA:165.621710185 Buffer:5 CLS:166.031527389 CLR:[165.7590756127102, 165.76561466205445, 168.24669882523347, 170.28226072813908]
+
+
+('CLA:', 165.62171018519365)
+('MC:', 164.9653374897328)
+Advancing MC to 165.621710185
+('new arrival entry,ID number:', 25)
+{16: <request.Request instance at 0x7fc95db13560>, 17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 20: <request.Request instance at 0x7fc95db134d0>, 21: <request.Request instance at 0x7fc95db13758>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>}
+next_CLA:165.621710185 7.31795383175
+
+full buffer: 165.621710185 0.293449910356
+
+('request trans_delay and buffer time after changes:', 165.62171018519365, 165.91516009554917)
+MC:165.621710185 CLA:172.939664017 Buffer:5 CLS:166.031527389 CLR:[165.7590756127102, 165.76561466205445, 165.91516009554917, 168.24669882523347, 170.28226072813908]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 165.62171018519365)
+Advancing MC to 165.759075613
+CLR entry after orbiting
+next_CLR165.759075613 18.4643496563
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 184.22342526899598)
+MC:165.759075613 CLA:172.939664017 Buffer:5 CLS:166.031527389 CLR:[165.76561466205445, 165.91516009554917, 168.24669882523347, 170.28226072813908, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 165.7590756127102)
+Advancing MC to 165.765614662
+CLR entry after orbiting
+next_CLR165.765614662 0.115655174109
+('id of  the request that has come after reorbiting:', 22)
+('request trans_delay and buffer time after changes:', 133.14190612721873, 165.88126983616385)
+MC:165.765614662 CLA:172.939664017 Buffer:5 CLS:166.031527389 CLR:[165.88126983616385, 165.91516009554917, 168.24669882523347, 170.28226072813908, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 165.76561466205445)
+Advancing MC to 165.881269836
+CLR entry after orbiting
+next_CLR165.881269836 6.92737393114
+('id of  the request that has come after reorbiting:', 22)
+('request trans_delay and buffer time after changes:', 133.14190612721873, 172.80864376730514)
+MC:165.881269836 CLA:172.939664017 Buffer:5 CLS:166.031527389 CLR:[165.91516009554917, 168.24669882523347, 170.28226072813908, 172.80864376730514, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 165.88126983616385)
+Advancing MC to 165.915160096
+CLR entry after orbiting
+next_CLR165.915160096 9.31781000807
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 175.23297010361534)
+MC:165.915160096 CLA:172.939664017 Buffer:5 CLS:166.031527389 CLR:[168.24669882523347, 170.28226072813908, 172.80864376730514, 175.23297010361534, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 165.91516009554917)
+Advancing MC to 166.031527389
+service completion entry
+('removing id from hashmap:', [16])
+('id:', [16], 'T:', 47.75965959687139, 'D:', 0)
+('CLA:', 172.9396640169476)
+('MC:', 166.0315273893787)
+Advancing MC to 168.246698825
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 23)
+('request completion time changed to:', 216.0315273893787)
+MC:168.246698825 CLA:172.939664017 Buffer:5 CLS:176.031527389 CLR:[170.28226072813908, 172.80864376730514, 175.23297010361534, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 168.24669882523347)
+Advancing MC to 170.282260728
+CLR entry after orbiting
+next_CLR170.282260728 0.0911637314528
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 170.37342445959186)
+MC:170.282260728 CLA:172.939664017 Buffer:5 CLS:176.031527389 CLR:[170.37342445959186, 172.80864376730514, 175.23297010361534, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 170.28226072813908)
+Advancing MC to 170.37342446
+CLR entry after orbiting
+next_CLR170.37342446 7.74967675194
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 178.1231012115294)
+MC:170.37342446 CLA:172.939664017 Buffer:5 CLS:176.031527389 CLR:[172.80864376730514, 175.23297010361534, 178.1231012115294, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 170.37342445959186)
+Advancing MC to 172.808643767
+CLR entry after orbiting
+next_CLR172.808643767 2.27998669122
+('id of  the request that has come after reorbiting:', 22)
+('request trans_delay and buffer time after changes:', 133.14190612721873, 175.0886304585286)
+MC:172.808643767 CLA:172.939664017 Buffer:5 CLS:176.031527389 CLR:[175.0886304585286, 175.23297010361534, 178.1231012115294, 184.22342526899598]
+
+
+('CLA:', 172.9396640169476)
+('MC:', 172.80864376730514)
+Advancing MC to 172.939664017
+('new arrival entry,ID number:', 26)
+{17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 20: <request.Request instance at 0x7fc95db134d0>, 21: <request.Request instance at 0x7fc95db13758>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>}
+next_CLA:172.939664017 5.18388104451
+
+full buffer: 172.939664017 0.0455992324426
+
+('request trans_delay and buffer time after changes:', 172.9396640169476, 172.9852632493902)
+MC:172.939664017 CLA:178.123545061 Buffer:5 CLS:176.031527389 CLR:[172.9852632493902, 175.0886304585286, 175.23297010361534, 178.1231012115294, 184.22342526899598]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 172.9396640169476)
+Advancing MC to 172.985263249
+CLR entry after orbiting
+next_CLR172.985263249 0.239270385348
+('id of  the request that has come after reorbiting:', 26)
+('request trans_delay and buffer time after changes:', 172.9396640169476, 173.22453363473815)
+MC:172.985263249 CLA:178.123545061 Buffer:5 CLS:176.031527389 CLR:[173.22453363473815, 175.0886304585286, 175.23297010361534, 178.1231012115294, 184.22342526899598]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 172.9852632493902)
+Advancing MC to 173.224533635
+CLR entry after orbiting
+next_CLR173.224533635 0.997864473253
+('id of  the request that has come after reorbiting:', 26)
+('request trans_delay and buffer time after changes:', 172.9396640169476, 174.22239810799135)
+MC:173.224533635 CLA:178.123545061 Buffer:5 CLS:176.031527389 CLR:[174.22239810799135, 175.0886304585286, 175.23297010361534, 178.1231012115294, 184.22342526899598]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 173.22453363473815)
+Advancing MC to 174.222398108
+CLR entry after orbiting
+next_CLR174.222398108 15.5254928517
+('id of  the request that has come after reorbiting:', 26)
+('request trans_delay and buffer time after changes:', 172.9396640169476, 189.74789095970823)
+MC:174.222398108 CLA:178.123545061 Buffer:5 CLS:176.031527389 CLR:[175.0886304585286, 175.23297010361534, 178.1231012115294, 184.22342526899598, 189.74789095970823]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 174.22239810799135)
+Advancing MC to 175.088630459
+CLR entry after orbiting
+next_CLR175.088630459 1.09402532158
+('id of  the request that has come after reorbiting:', 22)
+('request trans_delay and buffer time after changes:', 133.14190612721873, 176.18265578010428)
+MC:175.088630459 CLA:178.123545061 Buffer:5 CLS:176.031527389 CLR:[175.23297010361534, 176.18265578010428, 178.1231012115294, 184.22342526899598, 189.74789095970823]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 175.0886304585286)
+Advancing MC to 175.232970104
+CLR entry after orbiting
+next_CLR175.232970104 7.04753679965
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 182.2805069032614)
+MC:175.232970104 CLA:178.123545061 Buffer:5 CLS:176.031527389 CLR:[176.18265578010428, 178.1231012115294, 182.2805069032614, 184.22342526899598, 189.74789095970823]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 175.23297010361534)
+Advancing MC to 176.031527389
+service completion entry
+('removing id from hashmap:', [20])
+('id:', [20], 'T:', 49.551380374160786, 'D:', 0)
+('CLA:', 178.12354506145513)
+('MC:', 176.0315273893787)
+Advancing MC to 176.18265578
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 22)
+('request completion time changed to:', 226.0315273893787)
+MC:176.18265578 CLA:178.123545061 Buffer:5 CLS:186.031527389 CLR:[178.1231012115294, 182.2805069032614, 184.22342526899598, 189.74789095970823]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 176.18265578010428)
+Advancing MC to 178.123101212
+CLR entry after orbiting
+next_CLR178.123101212 13.2717405723
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 191.39484178378058)
+MC:178.123101212 CLA:178.123545061 Buffer:5 CLS:186.031527389 CLR:[182.2805069032614, 184.22342526899598, 189.74789095970823, 191.39484178378058]
+
+
+('CLA:', 178.12354506145513)
+('MC:', 178.1231012115294)
+Advancing MC to 178.123545061
+('new arrival entry,ID number:', 27)
+{17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 21: <request.Request instance at 0x7fc95db13758>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:178.123545061 17.0884094034
+
+full buffer: 178.123545061 2.11088345789
+
+('request trans_delay and buffer time after changes:', 178.12354506145513, 180.23442851934254)
+MC:178.123545061 CLA:195.211954465 Buffer:5 CLS:186.031527389 CLR:[180.23442851934254, 182.2805069032614, 184.22342526899598, 189.74789095970823, 191.39484178378058]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 178.12354506145513)
+Advancing MC to 180.234428519
+CLR entry after orbiting
+next_CLR180.234428519 2.19092200629
+('id of  the request that has come after reorbiting:', 27)
+('request trans_delay and buffer time after changes:', 178.12354506145513, 182.42535052563352)
+MC:180.234428519 CLA:195.211954465 Buffer:5 CLS:186.031527389 CLR:[182.2805069032614, 182.42535052563352, 184.22342526899598, 189.74789095970823, 191.39484178378058]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 180.23442851934254)
+Advancing MC to 182.280506903
+CLR entry after orbiting
+next_CLR182.280506903 3.71906462994
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 185.99957153320298)
+MC:182.280506903 CLA:195.211954465 Buffer:5 CLS:186.031527389 CLR:[182.42535052563352, 184.22342526899598, 185.99957153320298, 189.74789095970823, 191.39484178378058]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 182.2805069032614)
+Advancing MC to 182.425350526
+CLR entry after orbiting
+next_CLR182.425350526 7.47169269956
+('id of  the request that has come after reorbiting:', 27)
+('request trans_delay and buffer time after changes:', 178.12354506145513, 189.89704322519023)
+MC:182.425350526 CLA:195.211954465 Buffer:5 CLS:186.031527389 CLR:[184.22342526899598, 185.99957153320298, 189.74789095970823, 189.89704322519023, 191.39484178378058]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 182.42535052563352)
+Advancing MC to 184.223425269
+CLR entry after orbiting
+next_CLR184.223425269 0.571742092054
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 184.79516736104964)
+MC:184.223425269 CLA:195.211954465 Buffer:5 CLS:186.031527389 CLR:[184.79516736104964, 185.99957153320298, 189.74789095970823, 189.89704322519023, 191.39484178378058]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 184.22342526899598)
+Advancing MC to 184.795167361
+CLR entry after orbiting
+next_CLR184.795167361 6.89953514781
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 191.69470250885928)
+MC:184.795167361 CLA:195.211954465 Buffer:5 CLS:186.031527389 CLR:[185.99957153320298, 189.74789095970823, 189.89704322519023, 191.39484178378058, 191.69470250885928]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 184.79516736104964)
+Advancing MC to 185.999571533
+CLR entry after orbiting
+next_CLR185.999571533 7.97833281113
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 193.97790434433514)
+MC:185.999571533 CLA:195.211954465 Buffer:5 CLS:186.031527389 CLR:[189.74789095970823, 189.89704322519023, 191.39484178378058, 191.69470250885928, 193.97790434433514]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 185.99957153320298)
+Advancing MC to 186.031527389
+service completion entry
+('removing id from hashmap:', [21])
+('id:', [21], 'T:', 58.65503628567173, 'D:', 10.941685314890478)
+('CLA:', 195.21195446481636)
+('MC:', 186.0315273893787)
+Advancing MC to 189.74789096
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 26)
+('request completion time changed to:', 236.0315273893787)
+MC:189.74789096 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[189.89704322519023, 191.39484178378058, 191.69470250885928, 193.97790434433514]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 189.74789095970823)
+Advancing MC to 189.897043225
+CLR entry after orbiting
+next_CLR189.897043225 9.81965901114
+('id of  the request that has come after reorbiting:', 27)
+('request trans_delay and buffer time after changes:', 178.12354506145513, 199.716702236326)
+MC:189.897043225 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[191.39484178378058, 191.69470250885928, 193.97790434433514, 199.716702236326]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 189.89704322519023)
+Advancing MC to 191.394841784
+CLR entry after orbiting
+next_CLR191.394841784 0.186596825012
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 191.5814386087924)
+MC:191.394841784 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[191.5814386087924, 191.69470250885928, 193.97790434433514, 199.716702236326]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 191.39484178378058)
+Advancing MC to 191.581438609
+CLR entry after orbiting
+next_CLR191.581438609 14.575388923
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 206.1568275318164)
+MC:191.581438609 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[191.69470250885928, 193.97790434433514, 199.716702236326, 206.1568275318164]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 191.5814386087924)
+Advancing MC to 191.694702509
+CLR entry after orbiting
+next_CLR191.694702509 0.478040373798
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 192.1727428826571)
+MC:191.694702509 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[192.1727428826571, 193.97790434433514, 199.716702236326, 206.1568275318164]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 191.69470250885928)
+Advancing MC to 192.172742883
+CLR entry after orbiting
+next_CLR192.172742883 2.08319048696
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 194.2559333696197)
+MC:192.172742883 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[193.97790434433514, 194.2559333696197, 199.716702236326, 206.1568275318164]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 192.1727428826571)
+Advancing MC to 193.977904344
+CLR entry after orbiting
+next_CLR193.977904344 4.71866343404
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 198.69656777837142)
+MC:193.977904344 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[194.2559333696197, 198.69656777837142, 199.716702236326, 206.1568275318164]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 193.97790434433514)
+Advancing MC to 194.25593337
+CLR entry after orbiting
+next_CLR194.25593337 12.5104991778
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 206.76643254745835)
+MC:194.25593337 CLA:195.211954465 Buffer:5 CLS:196.031527389 CLR:[198.69656777837142, 199.716702236326, 206.1568275318164, 206.76643254745835]
+
+
+('CLA:', 195.21195446481636)
+('MC:', 194.2559333696197)
+Advancing MC to 195.211954465
+('new arrival entry,ID number:', 28)
+{17: <request.Request instance at 0x7fc95db13680>, 18: <request.Request instance at 0x7fc95db136c8>, 19: <request.Request instance at 0x7fc95db13710>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>}
+next_CLA:195.211954465 2.49272473529
+
+full buffer: 195.211954465 12.8981279043
+
+('request trans_delay and buffer time after changes:', 195.21195446481636, 208.1100823691221)
+MC:195.211954465 CLA:197.7046792 Buffer:5 CLS:196.031527389 CLR:[198.69656777837142, 199.716702236326, 206.1568275318164, 206.76643254745835, 208.1100823691221]
+
+
+('CLA:', 197.70467920010248)
+('MC:', 195.21195446481636)
+Advancing MC to 196.031527389
+service completion entry
+('removing id from hashmap:', [18])
+('id:', [18], 'T:', 72.56138664337736, 'D:', 23.93495917564313)
+('CLA:', 197.70467920010248)
+('MC:', 196.0315273893787)
+Advancing MC to 197.7046792
+('new arrival entry,ID number:', 29)
+{17: <request.Request instance at 0x7fc95db13680>, 19: <request.Request instance at 0x7fc95db13710>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 29: <request.Request instance at 0x7fc95db136c8>}
+next_CLA:197.7046792 4.7266468512
+
+('request completion time changed to:', 246.0315273893787)
+MC:197.7046792 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[198.69656777837142, 199.716702236326, 206.1568275318164, 206.76643254745835, 208.1100823691221]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 197.70467920010248)
+Advancing MC to 198.696567778
+CLR entry after orbiting
+next_CLR198.696567778 1.87310631
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 200.56967408837295)
+MC:198.696567778 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[199.716702236326, 200.56967408837295, 206.1568275318164, 206.76643254745835, 208.1100823691221]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 198.69656777837142)
+Advancing MC to 199.716702236
+CLR entry after orbiting
+next_CLR199.716702236 1.90483807762
+('id of  the request that has come after reorbiting:', 27)
+('request trans_delay and buffer time after changes:', 178.12354506145513, 201.6215403139423)
+MC:199.716702236 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[200.56967408837295, 201.6215403139423, 206.1568275318164, 206.76643254745835, 208.1100823691221]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 199.716702236326)
+Advancing MC to 200.569674088
+CLR entry after orbiting
+next_CLR200.569674088 0.976898880225
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 201.54657296859813)
+MC:200.569674088 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[201.54657296859813, 201.6215403139423, 206.1568275318164, 206.76643254745835, 208.1100823691221]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 200.56967408837295)
+Advancing MC to 201.546572969
+CLR entry after orbiting
+next_CLR201.546572969 0.407114556444
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 201.95368752504203)
+MC:201.546572969 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[201.6215403139423, 201.95368752504203, 206.1568275318164, 206.76643254745835, 208.1100823691221]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 201.54657296859813)
+Advancing MC to 201.621540314
+CLR entry after orbiting
+next_CLR201.621540314 0.80594051616
+('id of  the request that has come after reorbiting:', 27)
+('request trans_delay and buffer time after changes:', 178.12354506145513, 202.42748083010267)
+MC:201.621540314 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[201.95368752504203, 202.42748083010267, 206.1568275318164, 206.76643254745835, 208.1100823691221]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 201.6215403139423)
+Advancing MC to 201.953687525
+CLR entry after orbiting
+next_CLR201.953687525 5.84261949272
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 207.79630701776443)
+MC:201.953687525 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[202.42748083010267, 206.1568275318164, 206.76643254745835, 207.79630701776443, 208.1100823691221]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 201.95368752504203)
+Advancing MC to 202.42748083
+CLR entry after orbiting
+next_CLR202.42748083 28.6099581023
+('id of  the request that has come after reorbiting:', 27)
+('request trans_delay and buffer time after changes:', 178.12354506145513, 231.03743893235287)
+MC:202.42748083 CLA:202.431326051 Buffer:5 CLS:206.031527389 CLR:[206.1568275318164, 206.76643254745835, 207.79630701776443, 208.1100823691221, 231.03743893235287]
+
+
+('CLA:', 202.4313260512998)
+('MC:', 202.42748083010267)
+Advancing MC to 202.431326051
+('new arrival entry,ID number:', 30)
+{17: <request.Request instance at 0x7fc95db13680>, 19: <request.Request instance at 0x7fc95db13710>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 29: <request.Request instance at 0x7fc95db136c8>, 30: <request.Request instance at 0x7fc95db13830>}
+next_CLA:202.431326051 1.05705502669
+
+full buffer: 202.431326051 0.248852080927
+
+('request trans_delay and buffer time after changes:', 202.4313260512998, 202.68017813222667)
+MC:202.431326051 CLA:203.488381078 Buffer:5 CLS:206.031527389 CLR:[202.68017813222667, 206.1568275318164, 206.76643254745835, 207.79630701776443, 208.1100823691221, 231.03743893235287]
+
+
+('CLA:', 203.48838107798736)
+('MC:', 202.4313260512998)
+Advancing MC to 202.680178132
+CLR entry after orbiting
+next_CLR202.680178132 21.5996211865
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 224.27979931871522)
+MC:202.680178132 CLA:203.488381078 Buffer:5 CLS:206.031527389 CLR:[206.1568275318164, 206.76643254745835, 207.79630701776443, 208.1100823691221, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 203.48838107798736)
+('MC:', 202.68017813222667)
+Advancing MC to 203.488381078
+('new arrival entry,ID number:', 31)
+{17: <request.Request instance at 0x7fc95db13680>, 19: <request.Request instance at 0x7fc95db13710>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 29: <request.Request instance at 0x7fc95db136c8>, 30: <request.Request instance at 0x7fc95db13830>, 31: <request.Request instance at 0x7fc95db13878>}
+next_CLA:203.488381078 4.57537895247
+
+full buffer: 203.488381078 2.60343730469
+
+('request trans_delay and buffer time after changes:', 203.48838107798736, 206.0918183826757)
+MC:203.488381078 CLA:208.06376003 Buffer:5 CLS:206.031527389 CLR:[206.0918183826757, 206.1568275318164, 206.76643254745835, 207.79630701776443, 208.1100823691221, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 208.06376003046157)
+('MC:', 203.48838107798736)
+Advancing MC to 206.031527389
+service completion entry
+('removing id from hashmap:', [19])
+('id:', [19], 'T:', 80.59467430825468, 'D:', 30.6276061110011)
+('CLA:', 208.06376003046157)
+('MC:', 206.0315273893787)
+Advancing MC to 206.091818383
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 31)
+('request completion time changed to:', 256.0315273893787)
+MC:206.091818383 CLA:208.06376003 Buffer:5 CLS:216.031527389 CLR:[206.1568275318164, 206.76643254745835, 207.79630701776443, 208.1100823691221, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 208.06376003046157)
+('MC:', 206.0918183826757)
+Advancing MC to 206.156827532
+CLR entry after orbiting
+next_CLR206.156827532 1.35469251715
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 207.51152004896755)
+MC:206.156827532 CLA:208.06376003 Buffer:5 CLS:216.031527389 CLR:[206.76643254745835, 207.51152004896755, 207.79630701776443, 208.1100823691221, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 208.06376003046157)
+('MC:', 206.1568275318164)
+Advancing MC to 206.766432547
+CLR entry after orbiting
+next_CLR206.766432547 4.50652072796
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 211.27295327541862)
+MC:206.766432547 CLA:208.06376003 Buffer:5 CLS:216.031527389 CLR:[207.51152004896755, 207.79630701776443, 208.1100823691221, 211.27295327541862, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 208.06376003046157)
+('MC:', 206.76643254745835)
+Advancing MC to 207.511520049
+CLR entry after orbiting
+next_CLR207.511520049 8.75199883629
+('id of  the request that has come after reorbiting:', 17)
+('request trans_delay and buffer time after changes:', 123.39093510691663, 216.26351888525983)
+MC:207.511520049 CLA:208.06376003 Buffer:5 CLS:216.031527389 CLR:[207.79630701776443, 208.1100823691221, 211.27295327541862, 216.26351888525983, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 208.06376003046157)
+('MC:', 207.51152004896755)
+Advancing MC to 207.796307018
+CLR entry after orbiting
+next_CLR207.796307018 3.04095299642
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 210.8372600141846)
+MC:207.796307018 CLA:208.06376003 Buffer:5 CLS:216.031527389 CLR:[208.1100823691221, 210.8372600141846, 211.27295327541862, 216.26351888525983, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 208.06376003046157)
+('MC:', 207.79630701776443)
+Advancing MC to 208.06376003
+('new arrival entry,ID number:', 32)
+{17: <request.Request instance at 0x7fc95db13680>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 29: <request.Request instance at 0x7fc95db136c8>, 30: <request.Request instance at 0x7fc95db13830>, 31: <request.Request instance at 0x7fc95db13878>, 32: <request.Request instance at 0x7fc95db13710>}
+next_CLA:208.06376003 3.2865694258
+
+full buffer: 208.06376003 0.286595121374
+
+('request trans_delay and buffer time after changes:', 208.06376003046157, 208.35035515183597)
+MC:208.06376003 CLA:211.350329456 Buffer:5 CLS:216.031527389 CLR:[208.1100823691221, 208.35035515183597, 210.8372600141846, 211.27295327541862, 216.26351888525983, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 211.35032945625775)
+('MC:', 208.06376003046157)
+Advancing MC to 208.110082369
+CLR entry after orbiting
+next_CLR208.110082369 12.388821989
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 220.49890435814865)
+MC:208.110082369 CLA:211.350329456 Buffer:5 CLS:216.031527389 CLR:[208.35035515183597, 210.8372600141846, 211.27295327541862, 216.26351888525983, 220.49890435814865, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 211.35032945625775)
+('MC:', 208.1100823691221)
+Advancing MC to 208.350355152
+CLR entry after orbiting
+next_CLR208.350355152 0.166342656769
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 208.51669780860541)
+MC:208.350355152 CLA:211.350329456 Buffer:5 CLS:216.031527389 CLR:[208.51669780860541, 210.8372600141846, 211.27295327541862, 216.26351888525983, 220.49890435814865, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 211.35032945625775)
+('MC:', 208.35035515183597)
+Advancing MC to 208.516697809
+CLR entry after orbiting
+next_CLR208.516697809 3.40178856215
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 211.91848637075574)
+MC:208.516697809 CLA:211.350329456 Buffer:5 CLS:216.031527389 CLR:[210.8372600141846, 211.27295327541862, 211.91848637075574, 216.26351888525983, 220.49890435814865, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 211.35032945625775)
+('MC:', 208.51669780860541)
+Advancing MC to 210.837260014
+CLR entry after orbiting
+next_CLR210.837260014 9.1140617233
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 219.95132173748638)
+MC:210.837260014 CLA:211.350329456 Buffer:5 CLS:216.031527389 CLR:[211.27295327541862, 211.91848637075574, 216.26351888525983, 219.95132173748638, 220.49890435814865, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 211.35032945625775)
+('MC:', 210.8372600141846)
+Advancing MC to 211.272953275
+CLR entry after orbiting
+next_CLR211.272953275 0.699597780108
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 211.97255105552674)
+MC:211.272953275 CLA:211.350329456 Buffer:5 CLS:216.031527389 CLR:[211.91848637075574, 211.97255105552674, 216.26351888525983, 219.95132173748638, 220.49890435814865, 224.27979931871522, 231.03743893235287]
+
+
+('CLA:', 211.35032945625775)
+('MC:', 211.27295327541862)
+Advancing MC to 211.350329456
+('new arrival entry,ID number:', 33)
+{17: <request.Request instance at 0x7fc95db13680>, 22: <request.Request instance at 0x7fc95db137a0>, 23: <request.Request instance at 0x7fc95db13638>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 29: <request.Request instance at 0x7fc95db136c8>, 30: <request.Request instance at 0x7fc95db13830>, 31: <request.Request instance at 0x7fc95db13878>, 32: <request.Request instance at 0x7fc95db13710>, 33: <request.Request instance at 0x7fc95db138c0>}
+next_CLA:211.350329456 7.89310158108
+
+full buffer: 211.350329456 14.9585580983
+
+('request trans_delay and buffer time after changes:', 211.35032945625775, 226.30888755458008)
+MC:211.350329456 CLA:219.243431037 Buffer:5 CLS:216.031527389 CLR:[211.91848637075574, 211.97255105552674, 216.26351888525983, 219.95132173748638, 220.49890435814865, 224.27979931871522, 226.30888755458008, 231.03743893235287]
+
+
+('CLA:', 219.243431037336)
+('MC:', 211.35032945625775)
+Advancing MC to 211.918486371
+CLR entry after orbiting
+next_CLR211.918486371 4.97666013746
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 216.8951465082123)
+MC:211.918486371 CLA:219.243431037 Buffer:5 CLS:216.031527389 CLR:[211.97255105552674, 216.26351888525983, 216.8951465082123, 219.95132173748638, 220.49890435814865, 224.27979931871522, 226.30888755458008, 231.03743893235287]
+
+
+('CLA:', 219.243431037336)
+('MC:', 211.91848637075574)
+Advancing MC to 211.972551056
+CLR entry after orbiting
+next_CLR211.972551056 7.75607025729
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 219.7286213128192)
+MC:211.972551056 CLA:219.243431037 Buffer:5 CLS:216.031527389 CLR:[216.26351888525983, 216.8951465082123, 219.7286213128192, 219.95132173748638, 220.49890435814865, 224.27979931871522, 226.30888755458008, 231.03743893235287]
+
+
+('CLA:', 219.243431037336)
+('MC:', 211.97255105552674)
+Advancing MC to 216.031527389
+service completion entry
+('removing id from hashmap:', [23])
+('id:', [23], 'T:', 58.64328249099182, 'D:', 10.858453926846579)
+('CLA:', 219.243431037336)
+('MC:', 216.0315273893787)
+Advancing MC to 216.263518885
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 17)
+('request completion time changed to:', 266.0315273893787)
+MC:216.263518885 CLA:219.243431037 Buffer:5 CLS:226.031527389 CLR:[216.8951465082123, 219.7286213128192, 219.95132173748638, 220.49890435814865, 224.27979931871522, 226.30888755458008, 231.03743893235287]
+
+
+('CLA:', 219.243431037336)
+('MC:', 216.26351888525983)
+Advancing MC to 216.895146508
+CLR entry after orbiting
+next_CLR216.895146508 0.563775663403
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 217.45892217161574)
+MC:216.895146508 CLA:219.243431037 Buffer:5 CLS:226.031527389 CLR:[217.45892217161574, 219.7286213128192, 219.95132173748638, 220.49890435814865, 224.27979931871522, 226.30888755458008, 231.03743893235287]
+
+
+('CLA:', 219.243431037336)
+('MC:', 216.8951465082123)
+Advancing MC to 217.458922172
+CLR entry after orbiting
+next_CLR217.458922172 2.8507129215
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 220.30963509311167)
+MC:217.458922172 CLA:219.243431037 Buffer:5 CLS:226.031527389 CLR:[219.7286213128192, 219.95132173748638, 220.30963509311167, 220.49890435814865, 224.27979931871522, 226.30888755458008, 231.03743893235287]
+
+
+('CLA:', 219.243431037336)
+('MC:', 217.45892217161574)
+Advancing MC to 219.243431037
+('new arrival entry,ID number:', 34)
+{17: <request.Request instance at 0x7fc95db13680>, 22: <request.Request instance at 0x7fc95db137a0>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 29: <request.Request instance at 0x7fc95db136c8>, 30: <request.Request instance at 0x7fc95db13830>, 31: <request.Request instance at 0x7fc95db13878>, 32: <request.Request instance at 0x7fc95db13710>, 33: <request.Request instance at 0x7fc95db138c0>, 34: <request.Request instance at 0x7fc95db13638>}
+next_CLA:219.243431037 0.969788960598
+
+full buffer: 219.243431037 9.31307420277
+
+('request trans_delay and buffer time after changes:', 219.243431037336, 228.55650524010886)
+MC:219.243431037 CLA:220.213219998 Buffer:5 CLS:226.031527389 CLR:[219.7286213128192, 219.95132173748638, 220.30963509311167, 220.49890435814865, 224.27979931871522, 226.30888755458008, 228.55650524010886, 231.03743893235287]
+
+
+('CLA:', 220.21321999793417)
+('MC:', 219.243431037336)
+Advancing MC to 219.728621313
+CLR entry after orbiting
+next_CLR219.728621313 1.74646079239
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 221.4750821052137)
+MC:219.728621313 CLA:220.213219998 Buffer:5 CLS:226.031527389 CLR:[219.95132173748638, 220.30963509311167, 220.49890435814865, 221.4750821052137, 224.27979931871522, 226.30888755458008, 228.55650524010886, 231.03743893235287]
+
+
+('CLA:', 220.21321999793417)
+('MC:', 219.7286213128192)
+Advancing MC to 219.951321737
+CLR entry after orbiting
+next_CLR219.951321737 3.01794861169
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 222.96927034917482)
+MC:219.951321737 CLA:220.213219998 Buffer:5 CLS:226.031527389 CLR:[220.30963509311167, 220.49890435814865, 221.4750821052137, 222.96927034917482, 224.27979931871522, 226.30888755458008, 228.55650524010886, 231.03743893235287]
+
+
+('CLA:', 220.21321999793417)
+('MC:', 219.95132173748638)
+Advancing MC to 220.213219998
+('new arrival entry,ID number:', 35)
+{17: <request.Request instance at 0x7fc95db13680>, 22: <request.Request instance at 0x7fc95db137a0>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 26: <request.Request instance at 0x7fc95db13560>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 29: <request.Request instance at 0x7fc95db136c8>, 30: <request.Request instance at 0x7fc95db13830>, 31: <request.Request instance at 0x7fc95db13878>, 32: <request.Request instance at 0x7fc95db13710>, 33: <request.Request instance at 0x7fc95db138c0>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>}
+next_CLA:220.213219998 43.5861362352
+
+full buffer: 220.213219998 9.56125849987
+
+('request trans_delay and buffer time after changes:', 220.21321999793417, 229.77447849780583)
+MC:220.213219998 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[220.30963509311167, 220.49890435814865, 221.4750821052137, 222.96927034917482, 224.27979931871522, 226.30888755458008, 228.55650524010886, 229.77447849780583, 231.03743893235287]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 220.21321999793417)
+Advancing MC to 220.309635093
+CLR entry after orbiting
+next_CLR220.309635093 18.6500845225
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 238.95971961558558)
+MC:220.309635093 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[220.49890435814865, 221.4750821052137, 222.96927034917482, 224.27979931871522, 226.30888755458008, 228.55650524010886, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 220.30963509311167)
+Advancing MC to 220.498904358
+CLR entry after orbiting
+next_CLR220.498904358 3.02147074022
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 223.52037509836882)
+MC:220.498904358 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[221.4750821052137, 222.96927034917482, 223.52037509836882, 224.27979931871522, 226.30888755458008, 228.55650524010886, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 220.49890435814865)
+Advancing MC to 221.475082105
+CLR entry after orbiting
+next_CLR221.475082105 3.34870623112
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 224.82378833633675)
+MC:221.475082105 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[222.96927034917482, 223.52037509836882, 224.27979931871522, 224.82378833633675, 226.30888755458008, 228.55650524010886, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 221.4750821052137)
+Advancing MC to 222.969270349
+CLR entry after orbiting
+next_CLR222.969270349 6.53750869116
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 229.5067790403318)
+MC:222.969270349 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[223.52037509836882, 224.27979931871522, 224.82378833633675, 226.30888755458008, 228.55650524010886, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 222.96927034917482)
+Advancing MC to 223.520375098
+CLR entry after orbiting
+next_CLR223.520375098 3.26043359377
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 226.78080869213863)
+MC:223.520375098 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[224.27979931871522, 224.82378833633675, 226.30888755458008, 226.78080869213863, 228.55650524010886, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 223.52037509836882)
+Advancing MC to 224.279799319
+CLR entry after orbiting
+next_CLR224.279799319 1.71965826513
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 225.99945758384064)
+MC:224.279799319 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[224.82378833633675, 225.99945758384064, 226.30888755458008, 226.78080869213863, 228.55650524010886, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 224.27979931871522)
+Advancing MC to 224.823788336
+CLR entry after orbiting
+next_CLR224.823788336 2.58580672081
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 227.40959505715023)
+MC:224.823788336 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[225.99945758384064, 226.30888755458008, 226.78080869213863, 227.40959505715023, 228.55650524010886, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 224.82378833633675)
+Advancing MC to 225.999457584
+CLR entry after orbiting
+next_CLR225.999457584 0.792085956882
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 226.79154354072293)
+MC:225.999457584 CLA:263.799356233 Buffer:5 CLS:226.031527389 CLR:[226.30888755458008, 226.78080869213863, 226.79154354072293, 227.40959505715023, 228.55650524010886, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 225.99945758384064)
+Advancing MC to 226.031527389
+service completion entry
+('removing id from hashmap:', [22])
+('id:', [22], 'T:', 92.88962126215998, 'D:', 43.04074965288555)
+('CLA:', 263.7993562331236)
+('MC:', 226.0315273893787)
+Advancing MC to 226.308887555
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 33)
+('request completion time changed to:', 276.0315273893787)
+MC:226.308887555 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[226.78080869213863, 226.79154354072293, 227.40959505715023, 228.55650524010886, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 226.30888755458008)
+Advancing MC to 226.780808692
+CLR entry after orbiting
+next_CLR226.780808692 2.36604980246
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 229.14685849460346)
+MC:226.780808692 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[226.79154354072293, 227.40959505715023, 228.55650524010886, 229.14685849460346, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 226.78080869213863)
+Advancing MC to 226.791543541
+CLR entry after orbiting
+next_CLR226.791543541 22.2784521642
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 249.06999570495645)
+MC:226.791543541 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[227.40959505715023, 228.55650524010886, 229.14685849460346, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 226.79154354072293)
+Advancing MC to 227.409595057
+CLR entry after orbiting
+next_CLR227.409595057 16.0714173648
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 243.4810124219043)
+MC:227.409595057 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[228.55650524010886, 229.14685849460346, 229.5067790403318, 229.77447849780583, 231.03743893235287, 238.95971961558558, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 227.40959505715023)
+Advancing MC to 228.55650524
+CLR entry after orbiting
+next_CLR228.55650524 4.93041476049
+('id of  the request that has come after reorbiting:', 34)
+('request trans_delay and buffer time after changes:', 219.243431037336, 233.48692000060146)
+MC:228.55650524 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[229.14685849460346, 229.5067790403318, 229.77447849780583, 231.03743893235287, 233.48692000060146, 238.95971961558558, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 228.55650524010886)
+Advancing MC to 229.146858495
+CLR entry after orbiting
+next_CLR229.146858495 3.45896499605
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 232.60582349065234)
+MC:229.146858495 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[229.5067790403318, 229.77447849780583, 231.03743893235287, 232.60582349065234, 233.48692000060146, 238.95971961558558, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 229.14685849460346)
+Advancing MC to 229.50677904
+CLR entry after orbiting
+next_CLR229.50677904 2.06606593756
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 231.57284497789178)
+MC:229.50677904 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[229.77447849780583, 231.03743893235287, 231.57284497789178, 232.60582349065234, 233.48692000060146, 238.95971961558558, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 229.5067790403318)
+Advancing MC to 229.774478498
+CLR entry after orbiting
+next_CLR229.774478498 0.466816171165
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 230.24129466897097)
+MC:229.774478498 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[230.24129466897097, 231.03743893235287, 231.57284497789178, 232.60582349065234, 233.48692000060146, 238.95971961558558, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 229.77447849780583)
+Advancing MC to 230.241294669
+CLR entry after orbiting
+next_CLR230.241294669 1.58940164991
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 231.8306963188815)
+MC:230.241294669 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[231.03743893235287, 231.57284497789178, 231.8306963188815, 232.60582349065234, 233.48692000060146, 238.95971961558558, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 230.24129466897097)
+Advancing MC to 231.037438932
+CLR entry after orbiting
+next_CLR231.037438932 7.61673621587
+('id of  the request that has come after reorbiting:', 27)
+('request trans_delay and buffer time after changes:', 178.12354506145513, 238.65417514822644)
+MC:231.037438932 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[231.57284497789178, 231.8306963188815, 232.60582349065234, 233.48692000060146, 238.65417514822644, 238.95971961558558, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 231.03743893235287)
+Advancing MC to 231.572844978
+CLR entry after orbiting
+next_CLR231.572844978 10.1015935489
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 241.67443852678866)
+MC:231.572844978 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[231.8306963188815, 232.60582349065234, 233.48692000060146, 238.65417514822644, 238.95971961558558, 241.67443852678866, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 231.57284497789178)
+Advancing MC to 231.830696319
+CLR entry after orbiting
+next_CLR231.830696319 2.24180745892
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 234.07250377780485)
+MC:231.830696319 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[232.60582349065234, 233.48692000060146, 234.07250377780485, 238.65417514822644, 238.95971961558558, 241.67443852678866, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 231.8306963188815)
+Advancing MC to 232.605823491
+CLR entry after orbiting
+next_CLR232.605823491 7.70942390917
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 240.31524739982592)
+MC:232.605823491 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[233.48692000060146, 234.07250377780485, 238.65417514822644, 238.95971961558558, 240.31524739982592, 241.67443852678866, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 232.60582349065234)
+Advancing MC to 233.486920001
+CLR entry after orbiting
+next_CLR233.486920001 7.456010277
+('id of  the request that has come after reorbiting:', 34)
+('request trans_delay and buffer time after changes:', 219.243431037336, 240.9429302775997)
+MC:233.486920001 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[234.07250377780485, 238.65417514822644, 238.95971961558558, 240.31524739982592, 240.9429302775997, 241.67443852678866, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 233.48692000060146)
+Advancing MC to 234.072503778
+CLR entry after orbiting
+next_CLR234.072503778 5.93061121337
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 240.00311499117979)
+MC:234.072503778 CLA:263.799356233 Buffer:5 CLS:236.031527389 CLR:[238.65417514822644, 238.95971961558558, 240.00311499117979, 240.31524739982592, 240.9429302775997, 241.67443852678866, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 234.07250377780485)
+Advancing MC to 236.031527389
+service completion entry
+('removing id from hashmap:', [26])
+('id:', [26], 'T:', 63.091863372431106, 'D:', 16.808226942760626)
+('CLA:', 263.7993562331236)
+('MC:', 236.0315273893787)
+Advancing MC to 238.654175148
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 27)
+('request completion time changed to:', 286.0315273893787)
+MC:238.654175148 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[238.95971961558558, 240.00311499117979, 240.31524739982592, 240.9429302775997, 241.67443852678866, 243.4810124219043, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 238.65417514822644)
+Advancing MC to 238.959719616
+CLR entry after orbiting
+next_CLR238.959719616 5.45349508139
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 244.41321469697365)
+MC:238.959719616 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[240.00311499117979, 240.31524739982592, 240.9429302775997, 241.67443852678866, 243.4810124219043, 244.41321469697365, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 238.95971961558558)
+Advancing MC to 240.003114991
+CLR entry after orbiting
+next_CLR240.003114991 7.1280611129
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 247.13117610408074)
+MC:240.003114991 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[240.31524739982592, 240.9429302775997, 241.67443852678866, 243.4810124219043, 244.41321469697365, 247.13117610408074, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 240.00311499117979)
+Advancing MC to 240.3152474
+CLR entry after orbiting
+next_CLR240.3152474 2.25831830338
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 242.57356570320403)
+MC:240.3152474 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[240.9429302775997, 241.67443852678866, 242.57356570320403, 243.4810124219043, 244.41321469697365, 247.13117610408074, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 240.31524739982592)
+Advancing MC to 240.942930278
+CLR entry after orbiting
+next_CLR240.942930278 6.09491741496
+('id of  the request that has come after reorbiting:', 34)
+('request trans_delay and buffer time after changes:', 219.243431037336, 247.03784769256038)
+MC:240.942930278 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[241.67443852678866, 242.57356570320403, 243.4810124219043, 244.41321469697365, 247.03784769256038, 247.13117610408074, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 240.9429302775997)
+Advancing MC to 241.674438527
+CLR entry after orbiting
+next_CLR241.674438527 1.64844089303
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 243.32287941981747)
+MC:241.674438527 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[242.57356570320403, 243.32287941981747, 243.4810124219043, 244.41321469697365, 247.03784769256038, 247.13117610408074, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 241.67443852678866)
+Advancing MC to 242.573565703
+CLR entry after orbiting
+next_CLR242.573565703 3.3245989798
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 245.8981646829998)
+MC:242.573565703 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[243.32287941981747, 243.4810124219043, 244.41321469697365, 245.8981646829998, 247.03784769256038, 247.13117610408074, 249.06999570495645]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 242.57356570320403)
+Advancing MC to 243.32287942
+CLR entry after orbiting
+next_CLR243.32287942 7.34289314782
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 250.6657725676392)
+MC:243.32287942 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[243.4810124219043, 244.41321469697365, 245.8981646829998, 247.03784769256038, 247.13117610408074, 249.06999570495645, 250.6657725676392]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 243.32287941981747)
+Advancing MC to 243.481012422
+CLR entry after orbiting
+next_CLR243.481012422 5.87017645892
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 249.35118888082332)
+MC:243.481012422 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[244.41321469697365, 245.8981646829998, 247.03784769256038, 247.13117610408074, 249.06999570495645, 249.35118888082332, 250.6657725676392]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 243.4810124219043)
+Advancing MC to 244.413214697
+CLR entry after orbiting
+next_CLR244.413214697 1.73965248302
+('id of  the request that has come after reorbiting:', 32)
+('request trans_delay and buffer time after changes:', 208.06376003046157, 246.1528671799977)
+MC:244.413214697 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[245.8981646829998, 246.1528671799977, 247.03784769256038, 247.13117610408074, 249.06999570495645, 249.35118888082332, 250.6657725676392]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 244.41321469697365)
+Advancing MC to 245.898164683
+CLR entry after orbiting
+next_CLR245.898164683 14.5521374929
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 260.45030217586213)
+MC:245.898164683 CLA:263.799356233 Buffer:5 CLS:246.031527389 CLR:[246.1528671799977, 247.03784769256038, 247.13117610408074, 249.06999570495645, 249.35118888082332, 250.6657725676392, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 245.8981646829998)
+Advancing MC to 246.031527389
+service completion entry
+('removing id from hashmap:', [29])
+('id:', [29], 'T:', 48.326848189276234, 'D:', 0)
+('CLA:', 263.7993562331236)
+('MC:', 246.0315273893787)
+Advancing MC to 246.15286718
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 32)
+('request completion time changed to:', 296.0315273893787)
+MC:246.15286718 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[247.03784769256038, 247.13117610408074, 249.06999570495645, 249.35118888082332, 250.6657725676392, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 246.1528671799977)
+Advancing MC to 247.037847693
+CLR entry after orbiting
+next_CLR247.037847693 5.24471468836
+('id of  the request that has come after reorbiting:', 34)
+('request trans_delay and buffer time after changes:', 219.243431037336, 252.28256238091876)
+MC:247.037847693 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[247.13117610408074, 249.06999570495645, 249.35118888082332, 250.6657725676392, 252.28256238091876, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 247.03784769256038)
+Advancing MC to 247.131176104
+CLR entry after orbiting
+next_CLR247.131176104 4.34537601436
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 251.47655211844534)
+MC:247.131176104 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[249.06999570495645, 249.35118888082332, 250.6657725676392, 251.47655211844534, 252.28256238091876, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 247.13117610408074)
+Advancing MC to 249.069995705
+CLR entry after orbiting
+next_CLR249.069995705 0.0582411753488
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 249.1282368803053)
+MC:249.069995705 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[249.1282368803053, 249.35118888082332, 250.6657725676392, 251.47655211844534, 252.28256238091876, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 249.06999570495645)
+Advancing MC to 249.12823688
+CLR entry after orbiting
+next_CLR249.12823688 3.95921523976
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 253.08745212006136)
+MC:249.12823688 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[249.35118888082332, 250.6657725676392, 251.47655211844534, 252.28256238091876, 253.08745212006136, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 249.1282368803053)
+Advancing MC to 249.351188881
+CLR entry after orbiting
+next_CLR249.351188881 1.44302774713
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 250.79421662795374)
+MC:249.351188881 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[250.6657725676392, 250.79421662795374, 251.47655211844534, 252.28256238091876, 253.08745212006136, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 249.35118888082332)
+Advancing MC to 250.665772568
+CLR entry after orbiting
+next_CLR250.665772568 5.56826808055
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 256.2340406481901)
+MC:250.665772568 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[250.79421662795374, 251.47655211844534, 252.28256238091876, 253.08745212006136, 256.2340406481901, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 250.6657725676392)
+Advancing MC to 250.794216628
+CLR entry after orbiting
+next_CLR250.794216628 3.1082178808
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 253.90243450875772)
+MC:250.794216628 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[251.47655211844534, 252.28256238091876, 253.08745212006136, 253.90243450875772, 256.2340406481901, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 250.79421662795374)
+Advancing MC to 251.476552118
+CLR entry after orbiting
+next_CLR251.476552118 8.48260103289
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 259.95915315133834)
+MC:251.476552118 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[252.28256238091876, 253.08745212006136, 253.90243450875772, 256.2340406481901, 259.95915315133834, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 251.47655211844534)
+Advancing MC to 252.282562381
+CLR entry after orbiting
+next_CLR252.282562381 5.21262895511
+('id of  the request that has come after reorbiting:', 34)
+('request trans_delay and buffer time after changes:', 219.243431037336, 257.4951913360286)
+MC:252.282562381 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[253.08745212006136, 253.90243450875772, 256.2340406481901, 257.4951913360286, 259.95915315133834, 260.45030217586213]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 252.28256238091876)
+Advancing MC to 253.08745212
+CLR entry after orbiting
+next_CLR253.08745212 7.98818772411
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 261.07563984416737)
+MC:253.08745212 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[253.90243450875772, 256.2340406481901, 257.4951913360286, 259.95915315133834, 260.45030217586213, 261.07563984416737]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 253.08745212006136)
+Advancing MC to 253.902434509
+CLR entry after orbiting
+next_CLR253.902434509 2.13766798908
+('id of  the request that has come after reorbiting:', 24)
+('request trans_delay and buffer time after changes:', 160.07713353574064, 256.04010249783363)
+MC:253.902434509 CLA:263.799356233 Buffer:5 CLS:256.031527389 CLR:[256.04010249783363, 256.2340406481901, 257.4951913360286, 259.95915315133834, 260.45030217586213, 261.07563984416737]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 253.90243450875772)
+Advancing MC to 256.031527389
+service completion entry
+('removing id from hashmap:', [31])
+('id:', [31], 'T:', 52.543146311391354, 'D:', 2.603437304688356)
+('CLA:', 263.7993562331236)
+('MC:', 256.0315273893787)
+Advancing MC to 256.040102498
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 24)
+('request completion time changed to:', 306.0315273893787)
+MC:256.040102498 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[256.2340406481901, 257.4951913360286, 259.95915315133834, 260.45030217586213, 261.07563984416737]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 256.04010249783363)
+Advancing MC to 256.234040648
+CLR entry after orbiting
+next_CLR256.234040648 5.16500867575
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 261.39904932394256)
+MC:256.234040648 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[257.4951913360286, 259.95915315133834, 260.45030217586213, 261.07563984416737, 261.39904932394256]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 256.2340406481901)
+Advancing MC to 257.495191336
+CLR entry after orbiting
+next_CLR257.495191336 6.69376016566
+('id of  the request that has come after reorbiting:', 34)
+('request trans_delay and buffer time after changes:', 219.243431037336, 264.1889515016888)
+MC:257.495191336 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[259.95915315133834, 260.45030217586213, 261.07563984416737, 261.39904932394256, 264.1889515016888]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 257.4951913360286)
+Advancing MC to 259.959153151
+CLR entry after orbiting
+next_CLR259.959153151 8.80679156335
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 268.76594471468655)
+MC:259.959153151 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[260.45030217586213, 261.07563984416737, 261.39904932394256, 264.1889515016888, 268.76594471468655]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 259.95915315133834)
+Advancing MC to 260.450302176
+CLR entry after orbiting
+next_CLR260.450302176 2.15426191122
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 262.6045640870793)
+MC:260.450302176 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[261.07563984416737, 261.39904932394256, 262.6045640870793, 264.1889515016888, 268.76594471468655]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 260.45030217586213)
+Advancing MC to 261.075639844
+CLR entry after orbiting
+next_CLR261.075639844 9.25371403566
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 270.32935387982434)
+MC:261.075639844 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[261.39904932394256, 262.6045640870793, 264.1889515016888, 268.76594471468655, 270.32935387982434]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 261.07563984416737)
+Advancing MC to 261.399049324
+CLR entry after orbiting
+next_CLR261.399049324 10.1976919403
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 271.59674126427427)
+MC:261.399049324 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[262.6045640870793, 264.1889515016888, 268.76594471468655, 270.32935387982434, 271.59674126427427]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 261.39904932394256)
+Advancing MC to 262.604564087
+CLR entry after orbiting
+next_CLR262.604564087 5.82916332378
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 268.43372741086023)
+MC:262.604564087 CLA:263.799356233 Buffer:5 CLS:266.031527389 CLR:[264.1889515016888, 268.43372741086023, 268.76594471468655, 270.32935387982434, 271.59674126427427]
+
+
+('CLA:', 263.7993562331236)
+('MC:', 262.6045640870793)
+Advancing MC to 263.799356233
+('new arrival entry,ID number:', 36)
+{17: <request.Request instance at 0x7fc95db13680>, 24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 27: <request.Request instance at 0x7fc95db134d0>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 32: <request.Request instance at 0x7fc95db13710>, 33: <request.Request instance at 0x7fc95db138c0>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>}
+next_CLA:263.799356233 22.4088337925
+
+full buffer: 263.799356233 15.6768659686
+
+('request trans_delay and buffer time after changes:', 263.7993562331236, 279.47622220167494)
+MC:263.799356233 CLA:286.208190026 Buffer:5 CLS:266.031527389 CLR:[264.1889515016888, 268.43372741086023, 268.76594471468655, 270.32935387982434, 271.59674126427427, 279.47622220167494]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 263.7993562331236)
+Advancing MC to 264.188951502
+CLR entry after orbiting
+next_CLR264.188951502 3.65050240783
+('id of  the request that has come after reorbiting:', 34)
+('request trans_delay and buffer time after changes:', 219.243431037336, 267.8394539095218)
+MC:264.188951502 CLA:286.208190026 Buffer:5 CLS:266.031527389 CLR:[267.8394539095218, 268.43372741086023, 268.76594471468655, 270.32935387982434, 271.59674126427427, 279.47622220167494]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 264.1889515016888)
+Advancing MC to 266.031527389
+service completion entry
+('removing id from hashmap:', [17])
+('id:', [17], 'T:', 142.64059228246208, 'D:', 92.8725837783432)
+('CLA:', 286.2081900256721)
+('MC:', 266.0315273893787)
+Advancing MC to 267.83945391
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 34)
+('request completion time changed to:', 316.0315273893787)
+MC:267.83945391 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[268.43372741086023, 268.76594471468655, 270.32935387982434, 271.59674126427427, 279.47622220167494]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 267.8394539095218)
+Advancing MC to 268.433727411
+CLR entry after orbiting
+next_CLR268.433727411 3.76809742806
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 272.2018248389209)
+MC:268.433727411 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[268.76594471468655, 270.32935387982434, 271.59674126427427, 272.2018248389209, 279.47622220167494]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 268.43372741086023)
+Advancing MC to 268.765944715
+CLR entry after orbiting
+next_CLR268.765944715 0.90864436831
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 269.67458908299614)
+MC:268.765944715 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[269.67458908299614, 270.32935387982434, 271.59674126427427, 272.2018248389209, 279.47622220167494]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 268.76594471468655)
+Advancing MC to 269.674589083
+CLR entry after orbiting
+next_CLR269.674589083 9.05839112576
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 278.73298020875717)
+MC:269.674589083 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[270.32935387982434, 271.59674126427427, 272.2018248389209, 278.73298020875717, 279.47622220167494]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 269.67458908299614)
+Advancing MC to 270.32935388
+CLR entry after orbiting
+next_CLR270.32935388 13.8534878493
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 284.1828417291523)
+MC:270.32935388 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[271.59674126427427, 272.2018248389209, 278.73298020875717, 279.47622220167494, 284.1828417291523]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 270.32935387982434)
+Advancing MC to 271.596741264
+CLR entry after orbiting
+next_CLR271.596741264 3.24315384958
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 274.83989511385283)
+MC:271.596741264 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[272.2018248389209, 274.83989511385283, 278.73298020875717, 279.47622220167494, 284.1828417291523]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 271.59674126427427)
+Advancing MC to 272.201824839
+CLR entry after orbiting
+next_CLR272.201824839 5.8789612433
+('id of  the request that has come after reorbiting:', 28)
+('request trans_delay and buffer time after changes:', 195.21195446481636, 278.0807860822203)
+MC:272.201824839 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[274.83989511385283, 278.0807860822203, 278.73298020875717, 279.47622220167494, 284.1828417291523]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 272.2018248389209)
+Advancing MC to 274.839895114
+CLR entry after orbiting
+next_CLR274.839895114 6.359232867
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 281.19912798084846)
+MC:274.839895114 CLA:286.208190026 Buffer:5 CLS:276.031527389 CLR:[278.0807860822203, 278.73298020875717, 279.47622220167494, 281.19912798084846, 284.1828417291523]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 274.83989511385283)
+Advancing MC to 276.031527389
+service completion entry
+('removing id from hashmap:', [33])
+('id:', [33], 'T:', 64.68119793312096, 'D:', 14.958558098322328)
+('CLA:', 286.2081900256721)
+('MC:', 276.0315273893787)
+Advancing MC to 278.080786082
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 28)
+('request completion time changed to:', 326.0315273893787)
+MC:278.080786082 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[278.73298020875717, 279.47622220167494, 281.19912798084846, 284.1828417291523]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 278.0807860822203)
+Advancing MC to 278.732980209
+CLR entry after orbiting
+next_CLR278.732980209 6.55321580516
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 285.28619601392205)
+MC:278.732980209 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[279.47622220167494, 281.19912798084846, 284.1828417291523, 285.28619601392205]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 278.73298020875717)
+Advancing MC to 279.476222202
+CLR entry after orbiting
+next_CLR279.476222202 0.942664564755
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 280.41888676643026)
+MC:279.476222202 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[280.41888676643026, 281.19912798084846, 284.1828417291523, 285.28619601392205]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 279.47622220167494)
+Advancing MC to 280.418886766
+CLR entry after orbiting
+next_CLR280.418886766 7.5790919009
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 287.9979786673341)
+MC:280.418886766 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[281.19912798084846, 284.1828417291523, 285.28619601392205, 287.9979786673341]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 280.41888676643026)
+Advancing MC to 281.199127981
+CLR entry after orbiting
+next_CLR281.199127981 4.34757607671
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 285.5467040575597)
+MC:281.199127981 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[284.1828417291523, 285.28619601392205, 285.5467040575597, 287.9979786673341]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 281.19912798084846)
+Advancing MC to 284.182841729
+CLR entry after orbiting
+next_CLR284.182841729 5.47643256365
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 289.6592742927973)
+MC:284.182841729 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[285.28619601392205, 285.5467040575597, 287.9979786673341, 289.6592742927973]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 284.1828417291523)
+Advancing MC to 285.286196014
+CLR entry after orbiting
+next_CLR285.286196014 2.73046839309
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 288.0166644070127)
+MC:285.286196014 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[285.5467040575597, 287.9979786673341, 288.0166644070127, 289.6592742927973]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 285.28619601392205)
+Advancing MC to 285.546704058
+CLR entry after orbiting
+next_CLR285.546704058 4.88733580202
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 290.4340398595835)
+MC:285.546704058 CLA:286.208190026 Buffer:5 CLS:286.031527389 CLR:[287.9979786673341, 288.0166644070127, 289.6592742927973, 290.4340398595835]
+
+
+('CLA:', 286.2081900256721)
+('MC:', 285.5467040575597)
+Advancing MC to 286.031527389
+service completion entry
+('removing id from hashmap:', [27])
+('id:', [27], 'T:', 107.90798232792358, 'D:', 60.53063008677131)
+('CLA:', 286.2081900256721)
+('MC:', 286.0315273893787)
+Advancing MC to 286.208190026
+('new arrival entry,ID number:', 37)
+{24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 32: <request.Request instance at 0x7fc95db13710>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>}
+next_CLA:286.208190026 8.94206097973
+
+('request completion time changed to:', 336.0315273893787)
+MC:286.208190026 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[287.9979786673341, 288.0166644070127, 289.6592742927973, 290.4340398595835]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 286.2081900256721)
+Advancing MC to 287.997978667
+CLR entry after orbiting
+next_CLR287.997978667 5.06492603728
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 293.0629047046144)
+MC:287.997978667 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[288.0166644070127, 289.6592742927973, 290.4340398595835, 293.0629047046144]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 287.9979786673341)
+Advancing MC to 288.016664407
+CLR entry after orbiting
+next_CLR288.016664407 6.37223519418
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 294.3888996011894)
+MC:288.016664407 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[289.6592742927973, 290.4340398595835, 293.0629047046144, 294.3888996011894]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 288.0166644070127)
+Advancing MC to 289.659274293
+CLR entry after orbiting
+next_CLR289.659274293 0.140053387096
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 289.7993276798929)
+MC:289.659274293 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[289.7993276798929, 290.4340398595835, 293.0629047046144, 294.3888996011894]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 289.6592742927973)
+Advancing MC to 289.79932768
+CLR entry after orbiting
+next_CLR289.79932768 0.871904245887
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 290.6712319257797)
+MC:289.79932768 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[290.4340398595835, 290.6712319257797, 293.0629047046144, 294.3888996011894]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 289.7993276798929)
+Advancing MC to 290.43403986
+CLR entry after orbiting
+next_CLR290.43403986 2.90864101223
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 293.3426808718145)
+MC:290.43403986 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[290.6712319257797, 293.0629047046144, 293.3426808718145, 294.3888996011894]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 290.4340398595835)
+Advancing MC to 290.671231926
+CLR entry after orbiting
+next_CLR290.671231926 5.25078323621
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 295.9220151619893)
+MC:290.671231926 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[293.0629047046144, 293.3426808718145, 294.3888996011894, 295.9220151619893]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 290.6712319257797)
+Advancing MC to 293.062904705
+CLR entry after orbiting
+next_CLR293.062904705 1.23614498145
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 294.29904968606695)
+MC:293.062904705 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[293.3426808718145, 294.29904968606695, 294.3888996011894, 295.9220151619893]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 293.0629047046144)
+Advancing MC to 293.342680872
+CLR entry after orbiting
+next_CLR293.342680872 5.7911304922
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 299.1338113640141)
+MC:293.342680872 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[294.29904968606695, 294.3888996011894, 295.9220151619893, 299.1338113640141]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 293.3426808718145)
+Advancing MC to 294.299049686
+CLR entry after orbiting
+next_CLR294.299049686 4.98296643532
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 299.2820161213901)
+MC:294.299049686 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[294.3888996011894, 295.9220151619893, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 294.29904968606695)
+Advancing MC to 294.388899601
+CLR entry after orbiting
+next_CLR294.388899601 0.213815768951
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 294.6027153701402)
+MC:294.388899601 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[294.6027153701402, 295.9220151619893, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 294.3888996011894)
+Advancing MC to 294.60271537
+CLR entry after orbiting
+next_CLR294.60271537 3.18937137004
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 297.7920867401777)
+MC:294.60271537 CLA:295.150251005 Buffer:5 CLS:296.031527389 CLR:[295.9220151619893, 297.7920867401777, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 295.15025100540186)
+('MC:', 294.6027153701402)
+Advancing MC to 295.150251005
+('new arrival entry,ID number:', 38)
+{24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 32: <request.Request instance at 0x7fc95db13710>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>}
+next_CLA:295.150251005 1.53898131361
+
+full buffer: 295.150251005 0.278319477636
+
+('request trans_delay and buffer time after changes:', 295.15025100540186, 295.42857048303813)
+MC:295.150251005 CLA:296.689232319 Buffer:5 CLS:296.031527389 CLR:[295.42857048303813, 295.9220151619893, 297.7920867401777, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 296.6892323190142)
+('MC:', 295.15025100540186)
+Advancing MC to 295.428570483
+CLR entry after orbiting
+next_CLR295.428570483 0.716620986248
+('id of  the request that has come after reorbiting:', 38)
+('request trans_delay and buffer time after changes:', 295.15025100540186, 296.1451914692865)
+MC:295.428570483 CLA:296.689232319 Buffer:5 CLS:296.031527389 CLR:[295.9220151619893, 296.1451914692865, 297.7920867401777, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 296.6892323190142)
+('MC:', 295.42857048303813)
+Advancing MC to 295.922015162
+CLR entry after orbiting
+next_CLR295.922015162 1.90887114509
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 297.83088630707505)
+MC:295.922015162 CLA:296.689232319 Buffer:5 CLS:296.031527389 CLR:[296.1451914692865, 297.7920867401777, 297.83088630707505, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 296.6892323190142)
+('MC:', 295.9220151619893)
+Advancing MC to 296.031527389
+service completion entry
+('removing id from hashmap:', [32])
+('id:', [32], 'T:', 87.96776735891714, 'D:', 38.08910714953615)
+('CLA:', 296.6892323190142)
+('MC:', 296.0315273893787)
+Advancing MC to 296.145191469
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 38)
+('request completion time changed to:', 346.0315273893787)
+MC:296.145191469 CLA:296.689232319 Buffer:5 CLS:306.031527389 CLR:[297.7920867401777, 297.83088630707505, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 296.6892323190142)
+('MC:', 296.1451914692865)
+Advancing MC to 296.689232319
+('new arrival entry,ID number:', 39)
+{24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>}
+next_CLA:296.689232319 1.20203739867
+
+full buffer: 296.689232319 1.07438966545
+
+('request trans_delay and buffer time after changes:', 296.6892323190142, 297.7636219844608)
+MC:296.689232319 CLA:297.891269718 Buffer:5 CLS:306.031527389 CLR:[297.7636219844608, 297.7920867401777, 297.83088630707505, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 297.89126971768434)
+('MC:', 296.6892323190142)
+Advancing MC to 297.763621984
+CLR entry after orbiting
+next_CLR297.763621984 0.181544046967
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 297.9451660314282)
+MC:297.763621984 CLA:297.891269718 Buffer:5 CLS:306.031527389 CLR:[297.7920867401777, 297.83088630707505, 297.9451660314282, 299.1338113640141, 299.2820161213901]
+
+
+('CLA:', 297.89126971768434)
+('MC:', 297.7636219844608)
+Advancing MC to 297.79208674
+CLR entry after orbiting
+next_CLR297.79208674 3.13052925565
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 300.92261599583117)
+MC:297.79208674 CLA:297.891269718 Buffer:5 CLS:306.031527389 CLR:[297.83088630707505, 297.9451660314282, 299.1338113640141, 299.2820161213901, 300.92261599583117]
+
+
+('CLA:', 297.89126971768434)
+('MC:', 297.7920867401777)
+Advancing MC to 297.830886307
+CLR entry after orbiting
+next_CLR297.830886307 2.39258966967
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 300.2234759767477)
+MC:297.830886307 CLA:297.891269718 Buffer:5 CLS:306.031527389 CLR:[297.9451660314282, 299.1338113640141, 299.2820161213901, 300.2234759767477, 300.92261599583117]
+
+
+('CLA:', 297.89126971768434)
+('MC:', 297.83088630707505)
+Advancing MC to 297.891269718
+('new arrival entry,ID number:', 40)
+{24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>, 40: <request.Request instance at 0x7fc95db13680>}
+next_CLA:297.891269718 5.67731415309
+
+full buffer: 297.891269718 4.45999590288
+
+('request trans_delay and buffer time after changes:', 297.89126971768434, 302.3512656205627)
+MC:297.891269718 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[297.9451660314282, 299.1338113640141, 299.2820161213901, 300.2234759767477, 300.92261599583117, 302.3512656205627]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 297.89126971768434)
+Advancing MC to 297.945166031
+CLR entry after orbiting
+next_CLR297.945166031 1.35803590743
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 299.3032019388544)
+MC:297.945166031 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[299.1338113640141, 299.2820161213901, 299.3032019388544, 300.2234759767477, 300.92261599583117, 302.3512656205627]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 297.9451660314282)
+Advancing MC to 299.133811364
+CLR entry after orbiting
+next_CLR299.133811364 11.674628443
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 310.80843980699467)
+MC:299.133811364 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[299.2820161213901, 299.3032019388544, 300.2234759767477, 300.92261599583117, 302.3512656205627, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 299.1338113640141)
+Advancing MC to 299.282016121
+CLR entry after orbiting
+next_CLR299.282016121 0.00330417046773
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 299.28532029185783)
+MC:299.282016121 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[299.28532029185783, 299.3032019388544, 300.2234759767477, 300.92261599583117, 302.3512656205627, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 299.2820161213901)
+Advancing MC to 299.285320292
+CLR entry after orbiting
+next_CLR299.285320292 2.59912791517
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 301.8844482070268)
+MC:299.285320292 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[299.3032019388544, 300.2234759767477, 300.92261599583117, 301.8844482070268, 302.3512656205627, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 299.28532029185783)
+Advancing MC to 299.303201939
+CLR entry after orbiting
+next_CLR299.303201939 1.63230903892
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 300.93551097777555)
+MC:299.303201939 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[300.2234759767477, 300.92261599583117, 300.93551097777555, 301.8844482070268, 302.3512656205627, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 299.3032019388544)
+Advancing MC to 300.223475977
+CLR entry after orbiting
+next_CLR300.223475977 2.63852232265
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 302.86199829939346)
+MC:300.223475977 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[300.92261599583117, 300.93551097777555, 301.8844482070268, 302.3512656205627, 302.86199829939346, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 300.2234759767477)
+Advancing MC to 300.922615996
+CLR entry after orbiting
+next_CLR300.922615996 0.611258744162
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 301.53387473999277)
+MC:300.922615996 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[300.93551097777555, 301.53387473999277, 301.8844482070268, 302.3512656205627, 302.86199829939346, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 300.92261599583117)
+Advancing MC to 300.935510978
+CLR entry after orbiting
+next_CLR300.935510978 8.90024333821
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 309.8357543159889)
+MC:300.935510978 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[301.53387473999277, 301.8844482070268, 302.3512656205627, 302.86199829939346, 309.8357543159889, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 300.93551097777555)
+Advancing MC to 301.53387474
+CLR entry after orbiting
+next_CLR301.53387474 2.34106341718
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 303.8749381571693)
+MC:301.53387474 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[301.8844482070268, 302.3512656205627, 302.86199829939346, 303.8749381571693, 309.8357543159889, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 301.53387473999277)
+Advancing MC to 301.884448207
+CLR entry after orbiting
+next_CLR301.884448207 0.183642082586
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 302.06809028961317)
+MC:301.884448207 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[302.06809028961317, 302.3512656205627, 302.86199829939346, 303.8749381571693, 309.8357543159889, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 301.8844482070268)
+Advancing MC to 302.06809029
+CLR entry after orbiting
+next_CLR302.06809029 4.75394624624
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 306.82203653585645)
+MC:302.06809029 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[302.3512656205627, 302.86199829939346, 303.8749381571693, 306.82203653585645, 309.8357543159889, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 302.06809028961317)
+Advancing MC to 302.351265621
+CLR entry after orbiting
+next_CLR302.351265621 0.498116491215
+('id of  the request that has come after reorbiting:', 40)
+('request trans_delay and buffer time after changes:', 297.89126971768434, 302.8493821117781)
+MC:302.351265621 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[302.8493821117781, 302.86199829939346, 303.8749381571693, 306.82203653585645, 309.8357543159889, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 302.3512656205627)
+Advancing MC to 302.849382112
+CLR entry after orbiting
+next_CLR302.849382112 3.9397169572
+('id of  the request that has come after reorbiting:', 40)
+('request trans_delay and buffer time after changes:', 297.89126971768434, 306.789099068974)
+MC:302.849382112 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[302.86199829939346, 303.8749381571693, 306.789099068974, 306.82203653585645, 309.8357543159889, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 302.8493821117781)
+Advancing MC to 302.861998299
+CLR entry after orbiting
+next_CLR302.861998299 2.07283184001
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 304.93483013940016)
+MC:302.861998299 CLA:303.568583871 Buffer:5 CLS:306.031527389 CLR:[303.8749381571693, 304.93483013940016, 306.789099068974, 306.82203653585645, 309.8357543159889, 310.80843980699467]
+
+
+('CLA:', 303.5685838707764)
+('MC:', 302.86199829939346)
+Advancing MC to 303.568583871
+('new arrival entry,ID number:', 41)
+{24: <request.Request instance at 0x7fc95db135f0>, 25: <request.Request instance at 0x7fc95db137e8>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>, 40: <request.Request instance at 0x7fc95db13680>, 41: <request.Request instance at 0x7fc95db136c8>}
+next_CLA:303.568583871 5.21782048896
+
+full buffer: 303.568583871 15.8863311503
+
+('request trans_delay and buffer time after changes:', 303.5685838707764, 319.4549150210604)
+MC:303.568583871 CLA:308.78640436 Buffer:5 CLS:306.031527389 CLR:[303.8749381571693, 304.93483013940016, 306.789099068974, 306.82203653585645, 309.8357543159889, 310.80843980699467, 319.4549150210604]
+
+
+('CLA:', 308.7864043597327)
+('MC:', 303.5685838707764)
+Advancing MC to 303.874938157
+CLR entry after orbiting
+next_CLR303.874938157 8.5331042178
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 312.40804237497196)
+MC:303.874938157 CLA:308.78640436 Buffer:5 CLS:306.031527389 CLR:[304.93483013940016, 306.789099068974, 306.82203653585645, 309.8357543159889, 310.80843980699467, 312.40804237497196, 319.4549150210604]
+
+
+('CLA:', 308.7864043597327)
+('MC:', 303.8749381571693)
+Advancing MC to 304.934830139
+CLR entry after orbiting
+next_CLR304.934830139 2.71589985415
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 307.65072999355357)
+MC:304.934830139 CLA:308.78640436 Buffer:5 CLS:306.031527389 CLR:[306.789099068974, 306.82203653585645, 307.65072999355357, 309.8357543159889, 310.80843980699467, 312.40804237497196, 319.4549150210604]
+
+
+('CLA:', 308.7864043597327)
+('MC:', 304.93483013940016)
+Advancing MC to 306.031527389
+service completion entry
+('removing id from hashmap:', [24])
+('id:', [24], 'T:', 145.95439385363807, 'D:', 95.96296896209299)
+('CLA:', 308.7864043597327)
+('MC:', 306.0315273893787)
+Advancing MC to 306.789099069
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 40)
+('request completion time changed to:', 356.0315273893787)
+MC:306.789099069 CLA:308.78640436 Buffer:5 CLS:316.031527389 CLR:[306.82203653585645, 307.65072999355357, 309.8357543159889, 310.80843980699467, 312.40804237497196, 319.4549150210604]
+
+
+('CLA:', 308.7864043597327)
+('MC:', 306.789099068974)
+Advancing MC to 306.822036536
+CLR entry after orbiting
+next_CLR306.822036536 8.38296192959
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 315.2049984654489)
+MC:306.822036536 CLA:308.78640436 Buffer:5 CLS:316.031527389 CLR:[307.65072999355357, 309.8357543159889, 310.80843980699467, 312.40804237497196, 315.2049984654489, 319.4549150210604]
+
+
+('CLA:', 308.7864043597327)
+('MC:', 306.82203653585645)
+Advancing MC to 307.650729994
+CLR entry after orbiting
+next_CLR307.650729994 5.14025482398
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 312.79098481753806)
+MC:307.650729994 CLA:308.78640436 Buffer:5 CLS:316.031527389 CLR:[309.8357543159889, 310.80843980699467, 312.40804237497196, 312.79098481753806, 315.2049984654489, 319.4549150210604]
+
+
+('CLA:', 308.7864043597327)
+('MC:', 307.65072999355357)
+Advancing MC to 308.78640436
+('new arrival entry,ID number:', 42)
+{25: <request.Request instance at 0x7fc95db137e8>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>, 40: <request.Request instance at 0x7fc95db13680>, 41: <request.Request instance at 0x7fc95db136c8>, 42: <request.Request instance at 0x7fc95db135f0>}
+next_CLA:308.78640436 2.7669076724
+
+full buffer: 308.78640436 0.766411460448
+
+('request trans_delay and buffer time after changes:', 308.7864043597327, 309.5528158201809)
+MC:308.78640436 CLA:311.553312032 Buffer:5 CLS:316.031527389 CLR:[309.5528158201809, 309.8357543159889, 310.80843980699467, 312.40804237497196, 312.79098481753806, 315.2049984654489, 319.4549150210604]
+
+
+('CLA:', 311.55331203212916)
+('MC:', 308.7864043597327)
+Advancing MC to 309.55281582
+CLR entry after orbiting
+next_CLR309.55281582 4.53093031127
+('id of  the request that has come after reorbiting:', 42)
+('request trans_delay and buffer time after changes:', 308.7864043597327, 314.08374613145577)
+MC:309.55281582 CLA:311.553312032 Buffer:5 CLS:316.031527389 CLR:[309.8357543159889, 310.80843980699467, 312.40804237497196, 312.79098481753806, 314.08374613145577, 315.2049984654489, 319.4549150210604]
+
+
+('CLA:', 311.55331203212916)
+('MC:', 309.5528158201809)
+Advancing MC to 309.835754316
+CLR entry after orbiting
+next_CLR309.835754316 4.1489500545
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 313.98470437048815)
+MC:309.835754316 CLA:311.553312032 Buffer:5 CLS:316.031527389 CLR:[310.80843980699467, 312.40804237497196, 312.79098481753806, 313.98470437048815, 314.08374613145577, 315.2049984654489, 319.4549150210604]
+
+
+('CLA:', 311.55331203212916)
+('MC:', 309.8357543159889)
+Advancing MC to 310.808439807
+CLR entry after orbiting
+next_CLR310.808439807 15.7575570289
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 326.56599683586177)
+MC:310.808439807 CLA:311.553312032 Buffer:5 CLS:316.031527389 CLR:[312.40804237497196, 312.79098481753806, 313.98470437048815, 314.08374613145577, 315.2049984654489, 319.4549150210604, 326.56599683586177]
+
+
+('CLA:', 311.55331203212916)
+('MC:', 310.80843980699467)
+Advancing MC to 311.553312032
+('new arrival entry,ID number:', 43)
+{25: <request.Request instance at 0x7fc95db137e8>, 28: <request.Request instance at 0x7fc95db13758>, 30: <request.Request instance at 0x7fc95db13830>, 34: <request.Request instance at 0x7fc95db13638>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>, 40: <request.Request instance at 0x7fc95db13680>, 41: <request.Request instance at 0x7fc95db136c8>, 42: <request.Request instance at 0x7fc95db135f0>, 43: <request.Request instance at 0x7fc95db13560>}
+next_CLA:311.553312032 20.6515385329
+
+full buffer: 311.553312032 4.6902525027
+
+('request trans_delay and buffer time after changes:', 311.55331203212916, 316.24356453482704)
+MC:311.553312032 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[312.40804237497196, 312.79098481753806, 313.98470437048815, 314.08374613145577, 315.2049984654489, 316.24356453482704, 319.4549150210604, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 311.55331203212916)
+Advancing MC to 312.408042375
+CLR entry after orbiting
+next_CLR312.408042375 2.16250720749
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 314.57054958245715)
+MC:312.408042375 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[312.79098481753806, 313.98470437048815, 314.08374613145577, 314.57054958245715, 315.2049984654489, 316.24356453482704, 319.4549150210604, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 312.40804237497196)
+Advancing MC to 312.790984818
+CLR entry after orbiting
+next_CLR312.790984818 11.1965023709
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 323.98748718848606)
+MC:312.790984818 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[313.98470437048815, 314.08374613145577, 314.57054958245715, 315.2049984654489, 316.24356453482704, 319.4549150210604, 323.98748718848606, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 312.79098481753806)
+Advancing MC to 313.98470437
+CLR entry after orbiting
+next_CLR313.98470437 0.00473963709825
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 313.98944400758637)
+MC:313.98470437 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[313.98944400758637, 314.08374613145577, 314.57054958245715, 315.2049984654489, 316.24356453482704, 319.4549150210604, 323.98748718848606, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 313.98470437048815)
+Advancing MC to 313.989444008
+CLR entry after orbiting
+next_CLR313.989444008 0.570988014266
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 314.5604320218526)
+MC:313.989444008 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[314.08374613145577, 314.5604320218526, 314.57054958245715, 315.2049984654489, 316.24356453482704, 319.4549150210604, 323.98748718848606, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 313.98944400758637)
+Advancing MC to 314.083746131
+CLR entry after orbiting
+next_CLR314.083746131 4.17138844932
+('id of  the request that has come after reorbiting:', 42)
+('request trans_delay and buffer time after changes:', 308.7864043597327, 318.25513458077637)
+MC:314.083746131 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[314.5604320218526, 314.57054958245715, 315.2049984654489, 316.24356453482704, 318.25513458077637, 319.4549150210604, 323.98748718848606, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 314.08374613145577)
+Advancing MC to 314.560432022
+CLR entry after orbiting
+next_CLR314.560432022 4.77474252518
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 319.33517454703406)
+MC:314.560432022 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[314.57054958245715, 315.2049984654489, 316.24356453482704, 318.25513458077637, 319.33517454703406, 319.4549150210604, 323.98748718848606, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 314.5604320218526)
+Advancing MC to 314.570549582
+CLR entry after orbiting
+next_CLR314.570549582 0.758188691055
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 315.32873827351244)
+MC:314.570549582 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[315.2049984654489, 315.32873827351244, 316.24356453482704, 318.25513458077637, 319.33517454703406, 319.4549150210604, 323.98748718848606, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 314.57054958245715)
+Advancing MC to 315.204998465
+CLR entry after orbiting
+next_CLR315.204998465 4.96391940363
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 320.16891786907416)
+MC:315.204998465 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[315.32873827351244, 316.24356453482704, 318.25513458077637, 319.33517454703406, 319.4549150210604, 320.16891786907416, 323.98748718848606, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 315.2049984654489)
+Advancing MC to 315.328738274
+CLR entry after orbiting
+next_CLR315.328738274 11.0949794234
+('id of  the request that has come after reorbiting:', 35)
+('request trans_delay and buffer time after changes:', 220.21321999793417, 326.4237176969266)
+MC:315.328738274 CLA:332.204850565 Buffer:5 CLS:316.031527389 CLR:[316.24356453482704, 318.25513458077637, 319.33517454703406, 319.4549150210604, 320.16891786907416, 323.98748718848606, 326.4237176969266, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 315.32873827351244)
+Advancing MC to 316.031527389
+service completion entry
+('removing id from hashmap:', [34])
+('id:', [34], 'T:', 96.78809635204271, 'D:', 48.59602287218581)
+('CLA:', 332.20485056500183)
+('MC:', 316.0315273893787)
+Advancing MC to 316.243564535
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 43)
+('request completion time changed to:', 366.0315273893787)
+MC:316.243564535 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[318.25513458077637, 319.33517454703406, 319.4549150210604, 320.16891786907416, 323.98748718848606, 326.4237176969266, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 316.24356453482704)
+Advancing MC to 318.255134581
+CLR entry after orbiting
+next_CLR318.255134581 2.35680918759
+('id of  the request that has come after reorbiting:', 42)
+('request trans_delay and buffer time after changes:', 308.7864043597327, 320.61194376836465)
+MC:318.255134581 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[319.33517454703406, 319.4549150210604, 320.16891786907416, 320.61194376836465, 323.98748718848606, 326.4237176969266, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 318.25513458077637)
+Advancing MC to 319.335174547
+CLR entry after orbiting
+next_CLR319.335174547 2.8253865678
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 322.16056111483476)
+MC:319.335174547 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[319.4549150210604, 320.16891786907416, 320.61194376836465, 322.16056111483476, 323.98748718848606, 326.4237176969266, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 319.33517454703406)
+Advancing MC to 319.454915021
+CLR entry after orbiting
+next_CLR319.454915021 1.28308716493
+('id of  the request that has come after reorbiting:', 41)
+('request trans_delay and buffer time after changes:', 303.5685838707764, 320.73800218599087)
+MC:319.454915021 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[320.16891786907416, 320.61194376836465, 320.73800218599087, 322.16056111483476, 323.98748718848606, 326.4237176969266, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 319.4549150210604)
+Advancing MC to 320.168917869
+CLR entry after orbiting
+next_CLR320.168917869 1.72298786155
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 321.8919057306242)
+MC:320.168917869 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[320.61194376836465, 320.73800218599087, 321.8919057306242, 322.16056111483476, 323.98748718848606, 326.4237176969266, 326.56599683586177]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 320.16891786907416)
+Advancing MC to 320.611943768
+CLR entry after orbiting
+next_CLR320.611943768 17.9596036541
+('id of  the request that has come after reorbiting:', 42)
+('request trans_delay and buffer time after changes:', 308.7864043597327, 338.5715474224544)
+MC:320.611943768 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[320.73800218599087, 321.8919057306242, 322.16056111483476, 323.98748718848606, 326.4237176969266, 326.56599683586177, 338.5715474224544]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 320.61194376836465)
+Advancing MC to 320.738002186
+CLR entry after orbiting
+next_CLR320.738002186 2.3884094291
+('id of  the request that has come after reorbiting:', 41)
+('request trans_delay and buffer time after changes:', 303.5685838707764, 323.1264116150905)
+MC:320.738002186 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[321.8919057306242, 322.16056111483476, 323.1264116150905, 323.98748718848606, 326.4237176969266, 326.56599683586177, 338.5715474224544]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 320.73800218599087)
+Advancing MC to 321.891905731
+CLR entry after orbiting
+next_CLR321.891905731 16.2388329554
+('id of  the request that has come after reorbiting:', 36)
+('request trans_delay and buffer time after changes:', 263.7993562331236, 338.1307386859854)
+MC:321.891905731 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[322.16056111483476, 323.1264116150905, 323.98748718848606, 326.4237176969266, 326.56599683586177, 338.1307386859854, 338.5715474224544]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 321.8919057306242)
+Advancing MC to 322.160561115
+CLR entry after orbiting
+next_CLR322.160561115 12.25236769
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 334.41292880485975)
+MC:322.160561115 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[323.1264116150905, 323.98748718848606, 326.4237176969266, 326.56599683586177, 334.41292880485975, 338.1307386859854, 338.5715474224544]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 322.16056111483476)
+Advancing MC to 323.126411615
+CLR entry after orbiting
+next_CLR323.126411615 4.52935080308
+('id of  the request that has come after reorbiting:', 41)
+('request trans_delay and buffer time after changes:', 303.5685838707764, 327.6557624181667)
+MC:323.126411615 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[323.98748718848606, 326.4237176969266, 326.56599683586177, 327.6557624181667, 334.41292880485975, 338.1307386859854, 338.5715474224544]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 323.1264116150905)
+Advancing MC to 323.987487188
+CLR entry after orbiting
+next_CLR323.987487188 1.50434083413
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 325.4918280226202)
+MC:323.987487188 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[325.4918280226202, 326.4237176969266, 326.56599683586177, 327.6557624181667, 334.41292880485975, 338.1307386859854, 338.5715474224544]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 323.98748718848606)
+Advancing MC to 325.491828023
+CLR entry after orbiting
+next_CLR325.491828023 19.8114689624
+('id of  the request that has come after reorbiting:', 30)
+('request trans_delay and buffer time after changes:', 202.4313260512998, 345.3032969849929)
+MC:325.491828023 CLA:332.204850565 Buffer:5 CLS:326.031527389 CLR:[326.4237176969266, 326.56599683586177, 327.6557624181667, 334.41292880485975, 338.1307386859854, 338.5715474224544, 345.3032969849929]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 325.4918280226202)
+Advancing MC to 326.031527389
+service completion entry
+('removing id from hashmap:', [28])
+('id:', [28], 'T:', 130.81957292456235, 'D:', 82.86883161740394)
+('CLA:', 332.20485056500183)
+('MC:', 326.0315273893787)
+Advancing MC to 326.423717697
+CLR entry after orbiting
+('id of  the request that has come after reorbiting:', 35)
+('request completion time changed to:', 376.0315273893787)
+MC:326.423717697 CLA:332.204850565 Buffer:5 CLS:336.031527389 CLR:[326.56599683586177, 327.6557624181667, 334.41292880485975, 338.1307386859854, 338.5715474224544, 345.3032969849929]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 326.4237176969266)
+Advancing MC to 326.565996836
+CLR entry after orbiting
+next_CLR326.565996836 3.4289267753
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 329.99492361116603)
+MC:326.565996836 CLA:332.204850565 Buffer:5 CLS:336.031527389 CLR:[327.6557624181667, 329.99492361116603, 334.41292880485975, 338.1307386859854, 338.5715474224544, 345.3032969849929]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 326.56599683586177)
+Advancing MC to 327.655762418
+CLR entry after orbiting
+next_CLR327.655762418 2.68492162019
+('id of  the request that has come after reorbiting:', 41)
+('request trans_delay and buffer time after changes:', 303.5685838707764, 330.34068403836164)
+MC:327.655762418 CLA:332.204850565 Buffer:5 CLS:336.031527389 CLR:[329.99492361116603, 330.34068403836164, 334.41292880485975, 338.1307386859854, 338.5715474224544, 345.3032969849929]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 327.6557624181667)
+Advancing MC to 329.994923611
+CLR entry after orbiting
+next_CLR329.994923611 1.92208502267
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 331.9170086338402)
+MC:329.994923611 CLA:332.204850565 Buffer:5 CLS:336.031527389 CLR:[330.34068403836164, 331.9170086338402, 334.41292880485975, 338.1307386859854, 338.5715474224544, 345.3032969849929]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 329.99492361116603)
+Advancing MC to 330.340684038
+CLR entry after orbiting
+next_CLR330.340684038 20.7629985072
+('id of  the request that has come after reorbiting:', 41)
+('request trans_delay and buffer time after changes:', 303.5685838707764, 351.103682545572)
+MC:330.340684038 CLA:332.204850565 Buffer:5 CLS:336.031527389 CLR:[331.9170086338402, 334.41292880485975, 338.1307386859854, 338.5715474224544, 345.3032969849929, 351.103682545572]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 330.34068403836164)
+Advancing MC to 331.917008634
+CLR entry after orbiting
+next_CLR331.917008634 3.38395554281
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 335.30096417665453)
+MC:331.917008634 CLA:332.204850565 Buffer:5 CLS:336.031527389 CLR:[334.41292880485975, 335.30096417665453, 338.1307386859854, 338.5715474224544, 345.3032969849929, 351.103682545572]
+
+
+('CLA:', 332.20485056500183)
+('MC:', 331.9170086338402)
+Advancing MC to 332.204850565
+('new arrival entry,ID number:', 44)
+{25: <request.Request instance at 0x7fc95db137e8>, 30: <request.Request instance at 0x7fc95db13830>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>, 40: <request.Request instance at 0x7fc95db13680>, 41: <request.Request instance at 0x7fc95db136c8>, 42: <request.Request instance at 0x7fc95db135f0>, 43: <request.Request instance at 0x7fc95db13560>, 44: <request.Request instance at 0x7fc95db13758>}
+next_CLA:332.204850565 2.024582332
+
+full buffer: 332.204850565 3.24025438732
+
+('request trans_delay and buffer time after changes:', 332.20485056500183, 335.4451049523184)
+MC:332.204850565 CLA:334.229432897 Buffer:5 CLS:336.031527389 CLR:[334.41292880485975, 335.30096417665453, 335.4451049523184, 338.1307386859854, 338.5715474224544, 345.3032969849929, 351.103682545572]
+
+
+('CLA:', 334.2294328970004)
+('MC:', 332.20485056500183)
+Advancing MC to 334.229432897
+('new arrival entry,ID number:', 45)
+{25: <request.Request instance at 0x7fc95db137e8>, 30: <request.Request instance at 0x7fc95db13830>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>, 40: <request.Request instance at 0x7fc95db13680>, 41: <request.Request instance at 0x7fc95db136c8>, 42: <request.Request instance at 0x7fc95db135f0>, 43: <request.Request instance at 0x7fc95db13560>, 44: <request.Request instance at 0x7fc95db13758>, 45: <request.Request instance at 0x7fc95db13638>}
+next_CLA:334.229432897 0.779873204139
+
+full buffer: 334.229432897 4.86016192526
+
+('request trans_delay and buffer time after changes:', 334.2294328970004, 339.08959482225856)
+MC:334.229432897 CLA:335.009306101 Buffer:5 CLS:336.031527389 CLR:[334.41292880485975, 335.30096417665453, 335.4451049523184, 338.1307386859854, 338.5715474224544, 339.08959482225856, 345.3032969849929, 351.103682545572]
+
+
+('CLA:', 335.0093061011389)
+('MC:', 334.2294328970004)
+Advancing MC to 334.412928805
+CLR entry after orbiting
+next_CLR334.412928805 2.93014974804
+('id of  the request that has come after reorbiting:', 39)
+('request trans_delay and buffer time after changes:', 296.6892323190142, 337.34307855289836)
+MC:334.412928805 CLA:335.009306101 Buffer:5 CLS:336.031527389 CLR:[335.30096417665453, 335.4451049523184, 337.34307855289836, 338.1307386859854, 338.5715474224544, 339.08959482225856, 345.3032969849929, 351.103682545572]
+
+
+('CLA:', 335.0093061011389)
+('MC:', 334.41292880485975)
+Advancing MC to 335.009306101
+('new arrival entry,ID number:', 46)
+{25: <request.Request instance at 0x7fc95db137e8>, 30: <request.Request instance at 0x7fc95db13830>, 35: <request.Request instance at 0x7fc95db13908>, 36: <request.Request instance at 0x7fc95db13878>, 37: <request.Request instance at 0x7fc95db134d0>, 38: <request.Request instance at 0x7fc95db138c0>, 39: <request.Request instance at 0x7fc95db13710>, 40: <request.Request instance at 0x7fc95db13680>, 41: <request.Request instance at 0x7fc95db136c8>, 42: <request.Request instance at 0x7fc95db135f0>, 43: <request.Request instance at 0x7fc95db13560>, 44: <request.Request instance at 0x7fc95db13758>, 45: <request.Request instance at 0x7fc95db13638>, 46: <request.Request instance at 0x7fc95db137a0>}
+next_CLA:335.009306101 2.08122269989
+
+full buffer: 335.009306101 7.6095693056
+
+('request trans_delay and buffer time after changes:', 335.0093061011389, 342.6188754067373)
+MC:335.009306101 CLA:337.090528801 Buffer:5 CLS:336.031527389 CLR:[335.30096417665453, 335.4451049523184, 337.34307855289836, 338.1307386859854, 338.5715474224544, 339.08959482225856, 342.6188754067373, 345.3032969849929, 351.103682545572]
+
+
+('CLA:', 337.09052880102587)
+('MC:', 335.0093061011389)
+Advancing MC to 335.300964177
+CLR entry after orbiting
+next_CLR335.300964177 8.76669453249
+('id of  the request that has come after reorbiting:', 25)
+('request trans_delay and buffer time after changes:', 165.62171018519365, 344.0676587091495)
+MC:335.300964177 CLA:337.090528801 Buffer:5 CLS:336.031527389 CLR:[335.4451049523184, 337.34307855289836, 338.1307386859854, 338.5715474224544, 339.08959482225856, 342.6188754067373, 344.0676587091495, 345.3032969849929, 351.103682545572]
+
+
+('CLA:', 337.09052880102587)
+('MC:', 335.30096417665453)
+Advancing MC to 335.445104952
+CLR entry after orbiting
+next_CLR335.445104952 0.0664561754708
+('id of  the request that has come after reorbiting:', 44)
+('request trans_delay and buffer time after changes:', 332.20485056500183, 335.51156112778915)
+MC:335.445104952 CLA:337.090528801 Buffer:5 CLS:336.031527389 CLR:[335.51156112778915, 337.34307855289836, 338.1307386859854, 338.5715474224544, 339.08959482225856, 342.6188754067373, 344.0676587091495, 345.3032969849929, 351.103682545572]
+
+
