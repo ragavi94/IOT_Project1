@@ -49,9 +49,15 @@ class Simulation:
 			self.req_hash[id] = req
 	
 	##Update Hash map records and individual request's timer values, find T and D values on a service completion
-	def update_hashmap_CLS(self):
+	def update_hashmap_CLS(self,T,D):
+		tmp = [v.completion for v in self.req_hash.values()]
+		print("hashtable:",tmp)
 		id_list = [ k for k,v in self.req_hash.items() if (v.completion != 0 and v.completion == self.cls)]
 		print("removing id from hashmap:",id_list)
+		if id_list == []:
+			print("hash table:")
+			print("aborting")
+			exit()
 		for key in id_list:
 			req = self.req_hash[key]
 			T,D = req.getdata()
@@ -80,7 +86,8 @@ class Simulation:
 		return next_mc,clck_str
 
 	##Actual Simulation Logic
-	def simulation(self,CLA,CLS,CLR,b_size,seed):
+	def simulation(self,CLA,CLS,CLR,b_size,seed,i):
+		print("i:",i)
 		print("CLA:",self.cla)
 		print("MC:",self.mc)		
 		T=0
@@ -109,6 +116,7 @@ class Simulation:
 					self.buffer += 1
 					if self.buffer == 1:
 						self.update_hashmap_CLR(id,self.mc + CLS,"CLS")
+						self.cls = self.mc + CLS
 					elif self.buffer > 1:
 						self.update_hashmap_CLR(id,self.cls + ((self.buffer-1)*CLS),"CLS")
 
@@ -138,10 +146,11 @@ class Simulation:
 		if "CLS" in clck_str: ##Priority3: CLS. Remove 1 entry from buffer to indicate sending next waiting request in buffer for execution. Replace with new service completion time
 			print("service completion entry") 
 			self.buffer -= 1
-			id,T,D = self.update_hashmap_CLS()
+			id,T,D = self.update_hashmap_CLS(T,D)
 			if self.buffer > 0:
 				self.cls += CLS
 			print("id:",id,"T:",T,"D:",D)
+			print('MC:'+str(self.mc)+" "+'CLA:'+str(self.cla)+" "+'Buffer:'+str(self.buffer)+" "+'CLS:'+str(self.cls)+" "+'CLR:'+str(self.clr)+'\n\n')
 			return id,T,D				
 		print('MC:'+str(self.mc)+" "+'CLA:'+str(self.cla)+" "+'Buffer:'+str(self.buffer)+" "+'CLS:'+str(self.cls)+" "+'CLR:'+str(self.clr)+'\n\n')		
 		return 0,0,0
