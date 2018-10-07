@@ -1,0 +1,358 @@
+finding next min value to advance MC
+Advancing MC to 2
+new arrival entry
+next_CLA:2 5.85149621559
+MC:2 CLA:7.85149621559 Buffer:1 CLS:12 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 7.85149621559
+new arrival entry
+next_CLA:7.85149621559 8.12382247008
+MC:7.85149621559 CLA:15.9753186857 Buffer:2 CLS:12 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 12
+service completion entry
+MC:12 CLA:15.9753186857 Buffer:1 CLS:22 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 15.9753186857
+new arrival entry
+next_CLA:15.9753186857 9.51413980904
+MC:15.9753186857 CLA:25.4894584947 Buffer:2 CLS:22 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 22
+service completion entry
+MC:22 CLA:25.4894584947 Buffer:1 CLS:32 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 25.4894584947
+new arrival entry
+next_CLA:25.4894584947 17.1306364487
+MC:25.4894584947 CLA:42.6200949435 Buffer:2 CLS:32 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 32
+service completion entry
+MC:32 CLA:42.6200949435 Buffer:1 CLS:42 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 42
+service completion entry
+MC:42 CLA:42.6200949435 Buffer:0 CLS:42 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 42.6200949435
+new arrival entry
+next_CLA:42.6200949435 8.08010176128
+MC:42.6200949435 CLA:50.7001967047 Buffer:1 CLS:52.6200949435 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 50.7001967047
+new arrival entry
+next_CLA:50.7001967047 15.3313306846
+MC:50.7001967047 CLA:66.0315273894 Buffer:2 CLS:52.6200949435 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 52.6200949435
+service completion entry
+MC:52.6200949435 CLA:66.0315273894 Buffer:1 CLS:62.6200949435 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 62.6200949435
+service completion entry
+MC:62.6200949435 CLA:66.0315273894 Buffer:0 CLS:62.6200949435 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 66.0315273894
+new arrival entry
+next_CLA:66.0315273894 0.176605170825
+MC:66.0315273894 CLA:66.2081325602 Buffer:1 CLS:76.0315273894 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 66.2081325602
+new arrival entry
+next_CLA:66.2081325602 3.759918299
+MC:66.2081325602 CLA:69.9680508592 Buffer:2 CLS:76.0315273894 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 69.9680508592
+new arrival entry
+next_CLA:69.9680508592 17.2258912121
+MC:69.9680508592 CLA:87.1939420713 Buffer:3 CLS:76.0315273894 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 76.0315273894
+service completion entry
+MC:76.0315273894 CLA:87.1939420713 Buffer:2 CLS:86.0315273894 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 86.0315273894
+service completion entry
+MC:86.0315273894 CLA:87.1939420713 Buffer:1 CLS:96.0315273894 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 87.1939420713
+new arrival entry
+next_CLA:87.1939420713 6.28137935975
+MC:87.1939420713 CLA:93.475321431 Buffer:2 CLS:96.0315273894 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 93.475321431
+new arrival entry
+next_CLA:93.475321431 13.8697847989
+MC:93.475321431 CLA:107.34510623 Buffer:3 CLS:96.0315273894 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 96.0315273894
+service completion entry
+MC:96.0315273894 CLA:107.34510623 Buffer:2 CLS:106.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 106.031527389
+service completion entry
+MC:106.031527389 CLA:107.34510623 Buffer:1 CLS:116.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 107.34510623
+new arrival entry
+next_CLA:107.34510623 0.720855163822
+MC:107.34510623 CLA:108.065961394 Buffer:2 CLS:116.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 108.065961394
+new arrival entry
+next_CLA:108.065961394 3.7987397981
+MC:108.065961394 CLA:111.864701192 Buffer:3 CLS:116.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 111.864701192
+new arrival entry
+next_CLA:111.864701192 1.69873754803
+MC:111.864701192 CLA:113.56343874 Buffer:4 CLS:116.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 113.56343874
+new arrival entry
+next_CLA:113.56343874 4.7084290526
+MC:113.56343874 CLA:118.271867793 Buffer:5 CLS:116.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 116.031527389
+service completion entry
+MC:116.031527389 CLA:118.271867793 Buffer:4 CLS:126.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 118.271867793
+new arrival entry
+next_CLA:118.271867793 5.11906731441
+MC:118.271867793 CLA:123.390935107 Buffer:5 CLS:126.031527389 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 123.390935107
+new arrival entry
+next_CLA:123.390935107 0.0792056390847
+full buffer: 123.390935107 1.22138780048
+MC:123.390935107 CLA:123.470140746 Buffer:5 CLS:126.031527389 CLR:[124.61232290740128]
+
+finding next min value to advance MC
+Advancing MC to 123.470140746
+new arrival entry
+next_CLA:123.470140746 1.96671233512
+full buffer: 123.470140746 12.4052926251
+MC:123.470140746 CLA:125.436853081 Buffer:5 CLS:126.031527389 CLR:[124.61232290740128, 135.87543337114664]
+
+finding next min value to advance MC
+Advancing MC to 124.612322907
+CLR entry after orbiting
+next_CLR124.612322907 7.25630783874
+MC:124.612322907 CLA:125.436853081 Buffer:5 CLS:126.031527389 CLR:[131.86863074613942, 135.87543337114664]
+
+finding next min value to advance MC
+Advancing MC to 125.436853081
+new arrival entry
+next_CLA:125.436853081 1.04329393409
+full buffer: 125.436853081 7.97636828972
+MC:125.436853081 CLA:126.480147015 Buffer:5 CLS:126.031527389 CLR:[131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+finding next min value to advance MC
+Advancing MC to 126.031527389
+service completion entry
+MC:126.031527389 CLA:126.480147015 Buffer:4 CLS:136.031527389 CLR:[131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+finding next min value to advance MC
+Advancing MC to 126.480147015
+new arrival entry
+next_CLA:126.480147015 0.896344088489
+MC:126.480147015 CLA:127.376491104 Buffer:5 CLS:136.031527389 CLR:[131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+finding next min value to advance MC
+Advancing MC to 127.376491104
+new arrival entry
+next_CLA:127.376491104 5.76541502351
+full buffer: 127.376491104 0.67737630385
+MC:127.376491104 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[128.05386740755728, 131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+finding next min value to advance MC
+Advancing MC to 128.053867408
+CLR entry after orbiting
+next_CLR128.053867408 0.00888219568312
+MC:128.053867408 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[128.0627496032404, 131.86863074613942, 133.41322137084651, 135.87543337114664]
+
+finding next min value to advance MC
+Advancing MC to 128.062749603
+CLR entry after orbiting
+next_CLR128.062749603 10.2554268154
+MC:128.062749603 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[131.86863074613942, 133.41322137084651, 135.87543337114664, 138.31817641859746]
+
+finding next min value to advance MC
+Advancing MC to 131.868630746
+CLR entry after orbiting
+next_CLR131.868630746 1.17517223373
+MC:131.868630746 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[133.04380297986708, 133.41322137084651, 135.87543337114664, 138.31817641859746]
+
+finding next min value to advance MC
+Advancing MC to 133.04380298
+CLR entry after orbiting
+next_CLR133.04380298 1.2134235178
+MC:133.04380298 CLA:133.141906127 Buffer:5 CLS:136.031527389 CLR:[133.41322137084651, 134.2572264976646, 135.87543337114664, 138.31817641859746]
+
+finding next min value to advance MC
+Advancing MC to 133.141906127
+new arrival entry
+next_CLA:133.141906127 24.2463387712
+full buffer: 133.141906127 10.2945788379
+MC:133.141906127 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[133.41322137084651, 134.2572264976646, 135.87543337114664, 138.31817641859746, 143.43648496511142]
+
+finding next min value to advance MC
+Advancing MC to 133.413221371
+CLR entry after orbiting
+next_CLR133.413221371 1.70756075262
+MC:133.413221371 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[134.2572264976646, 135.12078212346444, 135.87543337114664, 138.31817641859746, 143.43648496511142]
+
+finding next min value to advance MC
+Advancing MC to 134.257226498
+CLR entry after orbiting
+next_CLR134.257226498 16.2826274274
+MC:134.257226498 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[135.12078212346444, 135.87543337114664, 138.31817641859746, 143.43648496511142, 150.5398539250308]
+
+finding next min value to advance MC
+Advancing MC to 135.120782123
+CLR entry after orbiting
+next_CLR135.120782123 3.87421050803
+MC:135.120782123 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[135.87543337114664, 138.31817641859746, 138.9949926314979, 143.43648496511142, 150.5398539250308]
+
+finding next min value to advance MC
+Advancing MC to 135.875433371
+CLR entry after orbiting
+next_CLR135.875433371 5.66338701904
+MC:135.875433371 CLA:157.388244898 Buffer:5 CLS:136.031527389 CLR:[138.31817641859746, 138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+
+finding next min value to advance MC
+Advancing MC to 136.031527389
+service completion entry
+MC:136.031527389 CLA:157.388244898 Buffer:4 CLS:146.031527389 CLR:[138.31817641859746, 138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+
+finding next min value to advance MC
+Advancing MC to 138.318176419
+CLR entry after orbiting
+MC:138.318176419 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+
+finding next min value to advance MC
+Advancing MC to 138.994992631
+CLR entry after orbiting
+next_CLR138.994992631 1.14567931285
+MC:138.994992631 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[140.14067194435003, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+
+finding next min value to advance MC
+Advancing MC to 140.140671944
+CLR entry after orbiting
+next_CLR140.140671944 14.1490557828
+MC:140.140671944 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[141.5388203901847, 143.43648496511142, 150.5398539250308, 154.28972772715494]
+
+finding next min value to advance MC
+Advancing MC to 141.53882039
+CLR entry after orbiting
+next_CLR141.53882039 5.86627953146
+MC:141.53882039 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[143.43648496511142, 147.40509992164448, 150.5398539250308, 154.28972772715494]
+
+finding next min value to advance MC
+Advancing MC to 143.436484965
+CLR entry after orbiting
+next_CLR143.436484965 16.9906572797
+MC:143.436484965 CLA:157.388244898 Buffer:5 CLS:146.031527389 CLR:[147.40509992164448, 150.5398539250308, 154.28972772715494, 160.4271422447875]
+
+finding next min value to advance MC
+Advancing MC to 146.031527389
+service completion entry
+MC:146.031527389 CLA:157.388244898 Buffer:4 CLS:156.031527389 CLR:[147.40509992164448, 150.5398539250308, 154.28972772715494, 160.4271422447875]
+
+finding next min value to advance MC
+Advancing MC to 147.405099922
+CLR entry after orbiting
+MC:147.405099922 CLA:157.388244898 Buffer:5 CLS:156.031527389 CLR:[150.5398539250308, 154.28972772715494, 160.4271422447875]
+
+finding next min value to advance MC
+Advancing MC to 150.539853925
+CLR entry after orbiting
+next_CLR150.539853925 11.2094107278
+MC:150.539853925 CLA:157.388244898 Buffer:5 CLS:156.031527389 CLR:[154.28972772715494, 160.4271422447875, 161.74926465279668]
+
+Consolidated Simulation Output Table
+
+
+MC		                 CLA		                 Buffer		                 CLS		                 CLR
+0		                 2		                 0		                 0		                 []
+2		                 7.85149621559		                 1		                 12		                 []
+7.85149621559		                 15.9753186857		                 2		                 12		                 []
+12		                 15.9753186857		                 1		                 22		                 []
+15.9753186857		                 25.4894584947		                 2		                 22		                 []
+22		                 25.4894584947		                 1		                 32		                 []
+25.4894584947		                 42.6200949435		                 2		                 32		                 []
+32		                 42.6200949435		                 1		                 42		                 []
+42		                 42.6200949435		                 0		                 42		                 []
+42.6200949435		                 50.7001967047		                 1		                 52.6200949435		                 []
+50.7001967047		                 66.0315273894		                 2		                 52.6200949435		                 []
+52.6200949435		                 66.0315273894		                 1		                 62.6200949435		                 []
+62.6200949435		                 66.0315273894		                 0		                 62.6200949435		                 []
+66.0315273894		                 66.2081325602		                 1		                 76.0315273894		                 []
+66.2081325602		                 69.9680508592		                 2		                 76.0315273894		                 []
+69.9680508592		                 87.1939420713		                 3		                 76.0315273894		                 []
+76.0315273894		                 87.1939420713		                 2		                 86.0315273894		                 []
+86.0315273894		                 87.1939420713		                 1		                 96.0315273894		                 []
+87.1939420713		                 93.475321431		                 2		                 96.0315273894		                 []
+93.475321431		                 107.34510623		                 3		                 96.0315273894		                 []
+96.0315273894		                 107.34510623		                 2		                 106.031527389		                 []
+106.031527389		                 107.34510623		                 1		                 116.031527389		                 []
+107.34510623		                 108.065961394		                 2		                 116.031527389		                 []
+108.065961394		                 111.864701192		                 3		                 116.031527389		                 []
+111.864701192		                 113.56343874		                 4		                 116.031527389		                 []
+113.56343874		                 118.271867793		                 5		                 116.031527389		                 []
+116.031527389		                 118.271867793		                 4		                 126.031527389		                 []
+118.271867793		                 123.390935107		                 5		                 126.031527389		                 []
+123.390935107		                 123.470140746		                 5		                 126.031527389		                 [124.61232290740128]
+123.470140746		                 125.436853081		                 5		                 126.031527389		                 [124.61232290740128, 135.87543337114664]
+124.612322907		                 125.436853081		                 5		                 126.031527389		                 [131.86863074613942, 135.87543337114664]
+125.436853081		                 126.480147015		                 5		                 126.031527389		                 [131.86863074613942, 133.41322137084651, 135.87543337114664]
+126.031527389		                 126.480147015		                 4		                 136.031527389		                 [131.86863074613942, 133.41322137084651, 135.87543337114664]
+126.480147015		                 127.376491104		                 5		                 136.031527389		                 [131.86863074613942, 133.41322137084651, 135.87543337114664]
+127.376491104		                 133.141906127		                 5		                 136.031527389		                 [128.05386740755728, 131.86863074613942, 133.41322137084651, 135.87543337114664]
+128.053867408		                 133.141906127		                 5		                 136.031527389		                 [128.0627496032404, 131.86863074613942, 133.41322137084651, 135.87543337114664]
+128.062749603		                 133.141906127		                 5		                 136.031527389		                 [131.86863074613942, 133.41322137084651, 135.87543337114664, 138.31817641859746]
+131.868630746		                 133.141906127		                 5		                 136.031527389		                 [133.04380297986708, 133.41322137084651, 135.87543337114664, 138.31817641859746]
+133.04380298		                 133.141906127		                 5		                 136.031527389		                 [133.41322137084651, 134.2572264976646, 135.87543337114664, 138.31817641859746]
+133.141906127		                 157.388244898		                 5		                 136.031527389		                 [133.41322137084651, 134.2572264976646, 135.87543337114664, 138.31817641859746, 143.43648496511142]
+133.413221371		                 157.388244898		                 5		                 136.031527389		                 [134.2572264976646, 135.12078212346444, 135.87543337114664, 138.31817641859746, 143.43648496511142]
+134.257226498		                 157.388244898		                 5		                 136.031527389		                 [135.12078212346444, 135.87543337114664, 138.31817641859746, 143.43648496511142, 150.5398539250308]
+135.120782123		                 157.388244898		                 5		                 136.031527389		                 [135.87543337114664, 138.31817641859746, 138.9949926314979, 143.43648496511142, 150.5398539250308]
+135.875433371		                 157.388244898		                 5		                 136.031527389		                 [138.31817641859746, 138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+136.031527389		                 157.388244898		                 4		                 146.031527389		                 [138.31817641859746, 138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+138.318176419		                 157.388244898		                 5		                 146.031527389		                 [138.9949926314979, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+138.994992631		                 157.388244898		                 5		                 146.031527389		                 [140.14067194435003, 141.5388203901847, 143.43648496511142, 150.5398539250308]
+140.140671944		                 157.388244898		                 5		                 146.031527389		                 [141.5388203901847, 143.43648496511142, 150.5398539250308, 154.28972772715494]
+141.53882039		                 157.388244898		                 5		                 146.031527389		                 [143.43648496511142, 147.40509992164448, 150.5398539250308, 154.28972772715494]
+143.436484965		                 157.388244898		                 5		                 146.031527389		                 [147.40509992164448, 150.5398539250308, 154.28972772715494, 160.4271422447875]
+146.031527389		                 157.388244898		                 4		                 156.031527389		                 [147.40509992164448, 150.5398539250308, 154.28972772715494, 160.4271422447875]
+147.405099922		                 157.388244898		                 5		                 156.031527389		                 [150.5398539250308, 154.28972772715494, 160.4271422447875]
+150.539853925		                 157.388244898		                 5		                 156.031527389		                 [154.28972772715494, 160.4271422447875, 161.74926465279668]

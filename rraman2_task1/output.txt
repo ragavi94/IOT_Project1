@@ -1,0 +1,654 @@
+finding next min value to advance MC
+Advancing MC to 2
+new arrival entry
+MC:2 CLA:8 Buffer:1 CLS:12 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 8
+new arrival entry
+MC:8 CLA:14 Buffer:2 CLS:12 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 12
+service completion entry
+MC:12 CLA:14 Buffer:1 CLS:22 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 14
+new arrival entry
+MC:14 CLA:20 Buffer:2 CLS:22 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 20
+new arrival entry
+MC:20 CLA:26 Buffer:3 CLS:22 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 22
+service completion entry
+MC:22 CLA:26 Buffer:2 CLS:32 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 26
+new arrival entry
+MC:26 CLA:32 Buffer:3 CLS:32 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 32
+new arrival entry
+service completion entry
+MC:32 CLA:38 Buffer:3 CLS:42 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 38
+new arrival entry
+MC:38 CLA:44 Buffer:4 CLS:42 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 42
+service completion entry
+MC:42 CLA:44 Buffer:3 CLS:52 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 44
+new arrival entry
+MC:44 CLA:50 Buffer:4 CLS:52 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 50
+new arrival entry
+MC:50 CLA:56 Buffer:5 CLS:52 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 52
+service completion entry
+MC:52 CLA:56 Buffer:4 CLS:62 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 56
+new arrival entry
+MC:56 CLA:62 Buffer:5 CLS:62 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 62
+new arrival entry
+service completion entry
+MC:62 CLA:68 Buffer:4 CLS:72 CLR:[67]
+
+finding next min value to advance MC
+Advancing MC to 67
+CLR entry after orbiting
+MC:67 CLA:68 Buffer:5 CLS:72 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 68
+new arrival entry
+MC:68 CLA:74 Buffer:5 CLS:72 CLR:[73]
+
+finding next min value to advance MC
+Advancing MC to 72
+service completion entry
+MC:72 CLA:74 Buffer:4 CLS:82 CLR:[73]
+
+finding next min value to advance MC
+Advancing MC to 73
+CLR entry after orbiting
+MC:73 CLA:74 Buffer:5 CLS:82 CLR:[]
+
+finding next min value to advance MC
+Advancing MC to 74
+new arrival entry
+MC:74 CLA:80 Buffer:5 CLS:82 CLR:[79]
+
+finding next min value to advance MC
+Advancing MC to 79
+CLR entry after orbiting
+MC:79 CLA:80 Buffer:5 CLS:82 CLR:[84]
+
+finding next min value to advance MC
+Advancing MC to 80
+new arrival entry
+MC:80 CLA:86 Buffer:5 CLS:82 CLR:[84, 85]
+
+finding next min value to advance MC
+Advancing MC to 82
+service completion entry
+MC:82 CLA:86 Buffer:4 CLS:92 CLR:[84, 85]
+
+finding next min value to advance MC
+Advancing MC to 84
+CLR entry after orbiting
+MC:84 CLA:86 Buffer:5 CLS:92 CLR:[85]
+
+finding next min value to advance MC
+Advancing MC to 85
+CLR entry after orbiting
+MC:85 CLA:86 Buffer:5 CLS:92 CLR:[90]
+
+finding next min value to advance MC
+Advancing MC to 86
+new arrival entry
+MC:86 CLA:92 Buffer:5 CLS:92 CLR:[90, 91]
+
+finding next min value to advance MC
+Advancing MC to 90
+CLR entry after orbiting
+MC:90 CLA:92 Buffer:5 CLS:92 CLR:[91, 95]
+
+finding next min value to advance MC
+Advancing MC to 91
+CLR entry after orbiting
+MC:91 CLA:92 Buffer:5 CLS:92 CLR:[95, 96]
+
+finding next min value to advance MC
+Advancing MC to 92
+new arrival entry
+service completion entry
+MC:92 CLA:98 Buffer:4 CLS:102 CLR:[95, 96, 97]
+
+finding next min value to advance MC
+Advancing MC to 95
+CLR entry after orbiting
+MC:95 CLA:98 Buffer:5 CLS:102 CLR:[96, 97]
+
+finding next min value to advance MC
+Advancing MC to 96
+CLR entry after orbiting
+MC:96 CLA:98 Buffer:5 CLS:102 CLR:[97, 101]
+
+finding next min value to advance MC
+Advancing MC to 97
+CLR entry after orbiting
+MC:97 CLA:98 Buffer:5 CLS:102 CLR:[101, 102]
+
+finding next min value to advance MC
+Advancing MC to 98
+new arrival entry
+MC:98 CLA:104 Buffer:5 CLS:102 CLR:[101, 102, 103]
+
+finding next min value to advance MC
+Advancing MC to 101
+CLR entry after orbiting
+MC:101 CLA:104 Buffer:5 CLS:102 CLR:[102, 103, 106]
+
+finding next min value to advance MC
+Advancing MC to 102
+CLR entry after orbiting
+service completion entry
+MC:102 CLA:104 Buffer:4 CLS:112 CLR:[103, 106, 107]
+
+finding next min value to advance MC
+Advancing MC to 103
+CLR entry after orbiting
+MC:103 CLA:104 Buffer:5 CLS:112 CLR:[106, 107]
+
+finding next min value to advance MC
+Advancing MC to 104
+new arrival entry
+MC:104 CLA:110 Buffer:5 CLS:112 CLR:[106, 107, 109]
+
+finding next min value to advance MC
+Advancing MC to 106
+CLR entry after orbiting
+MC:106 CLA:110 Buffer:5 CLS:112 CLR:[107, 109, 111]
+
+finding next min value to advance MC
+Advancing MC to 107
+CLR entry after orbiting
+MC:107 CLA:110 Buffer:5 CLS:112 CLR:[109, 111, 112]
+
+finding next min value to advance MC
+Advancing MC to 109
+CLR entry after orbiting
+MC:109 CLA:110 Buffer:5 CLS:112 CLR:[111, 112, 114]
+
+finding next min value to advance MC
+Advancing MC to 110
+new arrival entry
+MC:110 CLA:116 Buffer:5 CLS:112 CLR:[111, 112, 114, 115]
+
+finding next min value to advance MC
+Advancing MC to 111
+CLR entry after orbiting
+MC:111 CLA:116 Buffer:5 CLS:112 CLR:[112, 114, 115, 116]
+
+finding next min value to advance MC
+Advancing MC to 112
+CLR entry after orbiting
+service completion entry
+MC:112 CLA:116 Buffer:4 CLS:122 CLR:[114, 115, 116, 117]
+
+finding next min value to advance MC
+Advancing MC to 114
+CLR entry after orbiting
+MC:114 CLA:116 Buffer:5 CLS:122 CLR:[115, 116, 117]
+
+finding next min value to advance MC
+Advancing MC to 115
+CLR entry after orbiting
+MC:115 CLA:116 Buffer:5 CLS:122 CLR:[116, 117, 120]
+
+finding next min value to advance MC
+Advancing MC to 116
+CLR entry after orbiting
+new arrival entry
+MC:116 CLA:122 Buffer:5 CLS:122 CLR:[117, 120, 121, 121]
+
+finding next min value to advance MC
+Advancing MC to 117
+CLR entry after orbiting
+MC:117 CLA:122 Buffer:5 CLS:122 CLR:[120, 121, 121, 122]
+
+finding next min value to advance MC
+Advancing MC to 120
+CLR entry after orbiting
+MC:120 CLA:122 Buffer:5 CLS:122 CLR:[121, 121, 122, 125]
+
+finding next min value to advance MC
+Advancing MC to 121
+CLR entry after orbiting
+MC:121 CLA:122 Buffer:5 CLS:122 CLR:[122, 125, 126, 126]
+
+finding next min value to advance MC
+Advancing MC to 122
+CLR entry after orbiting
+new arrival entry
+service completion entry
+MC:122 CLA:128 Buffer:4 CLS:132 CLR:[125, 126, 126, 127, 127]
+
+finding next min value to advance MC
+Advancing MC to 125
+CLR entry after orbiting
+MC:125 CLA:128 Buffer:5 CLS:132 CLR:[126, 126, 127, 127]
+
+finding next min value to advance MC
+Advancing MC to 126
+CLR entry after orbiting
+MC:126 CLA:128 Buffer:5 CLS:132 CLR:[127, 127, 131, 131]
+
+finding next min value to advance MC
+Advancing MC to 127
+CLR entry after orbiting
+MC:127 CLA:128 Buffer:5 CLS:132 CLR:[131, 131, 132, 132]
+
+finding next min value to advance MC
+Advancing MC to 128
+new arrival entry
+MC:128 CLA:134 Buffer:5 CLS:132 CLR:[131, 131, 132, 132, 133]
+
+finding next min value to advance MC
+Advancing MC to 131
+CLR entry after orbiting
+MC:131 CLA:134 Buffer:5 CLS:132 CLR:[132, 132, 133, 136, 136]
+
+finding next min value to advance MC
+Advancing MC to 132
+CLR entry after orbiting
+service completion entry
+MC:132 CLA:134 Buffer:4 CLS:142 CLR:[133, 136, 136, 137, 137]
+
+finding next min value to advance MC
+Advancing MC to 133
+CLR entry after orbiting
+MC:133 CLA:134 Buffer:5 CLS:142 CLR:[136, 136, 137, 137]
+
+finding next min value to advance MC
+Advancing MC to 134
+new arrival entry
+MC:134 CLA:140 Buffer:5 CLS:142 CLR:[136, 136, 137, 137, 139]
+
+finding next min value to advance MC
+Advancing MC to 136
+CLR entry after orbiting
+MC:136 CLA:140 Buffer:5 CLS:142 CLR:[137, 137, 139, 141, 141]
+
+finding next min value to advance MC
+Advancing MC to 137
+CLR entry after orbiting
+MC:137 CLA:140 Buffer:5 CLS:142 CLR:[139, 141, 141, 142, 142]
+
+finding next min value to advance MC
+Advancing MC to 139
+CLR entry after orbiting
+MC:139 CLA:140 Buffer:5 CLS:142 CLR:[141, 141, 142, 142, 144]
+
+finding next min value to advance MC
+Advancing MC to 140
+new arrival entry
+MC:140 CLA:146 Buffer:5 CLS:142 CLR:[141, 141, 142, 142, 144, 145]
+
+finding next min value to advance MC
+Advancing MC to 141
+CLR entry after orbiting
+MC:141 CLA:146 Buffer:5 CLS:142 CLR:[142, 142, 144, 145, 146, 146]
+
+finding next min value to advance MC
+Advancing MC to 142
+CLR entry after orbiting
+service completion entry
+MC:142 CLA:146 Buffer:4 CLS:152 CLR:[144, 145, 146, 146, 147, 147]
+
+finding next min value to advance MC
+Advancing MC to 144
+CLR entry after orbiting
+MC:144 CLA:146 Buffer:5 CLS:152 CLR:[145, 146, 146, 147, 147]
+
+finding next min value to advance MC
+Advancing MC to 145
+CLR entry after orbiting
+MC:145 CLA:146 Buffer:5 CLS:152 CLR:[146, 146, 147, 147, 150]
+
+finding next min value to advance MC
+Advancing MC to 146
+CLR entry after orbiting
+new arrival entry
+MC:146 CLA:152 Buffer:5 CLS:152 CLR:[147, 147, 150, 151, 151, 151]
+
+finding next min value to advance MC
+Advancing MC to 147
+CLR entry after orbiting
+MC:147 CLA:152 Buffer:5 CLS:152 CLR:[150, 151, 151, 151, 152, 152]
+
+finding next min value to advance MC
+Advancing MC to 150
+CLR entry after orbiting
+MC:150 CLA:152 Buffer:5 CLS:152 CLR:[151, 151, 151, 152, 152, 155]
+
+finding next min value to advance MC
+Advancing MC to 151
+CLR entry after orbiting
+MC:151 CLA:152 Buffer:5 CLS:152 CLR:[152, 152, 155, 156, 156, 156]
+
+finding next min value to advance MC
+Advancing MC to 152
+CLR entry after orbiting
+new arrival entry
+service completion entry
+MC:152 CLA:158 Buffer:4 CLS:162 CLR:[155, 156, 156, 156, 157, 157, 157]
+
+finding next min value to advance MC
+Advancing MC to 155
+CLR entry after orbiting
+MC:155 CLA:158 Buffer:5 CLS:162 CLR:[156, 156, 156, 157, 157, 157]
+
+finding next min value to advance MC
+Advancing MC to 156
+CLR entry after orbiting
+MC:156 CLA:158 Buffer:5 CLS:162 CLR:[157, 157, 157, 161, 161, 161]
+
+finding next min value to advance MC
+Advancing MC to 157
+CLR entry after orbiting
+MC:157 CLA:158 Buffer:5 CLS:162 CLR:[161, 161, 161, 162, 162, 162]
+
+finding next min value to advance MC
+Advancing MC to 158
+new arrival entry
+MC:158 CLA:164 Buffer:5 CLS:162 CLR:[161, 161, 161, 162, 162, 162, 163]
+
+finding next min value to advance MC
+Advancing MC to 161
+CLR entry after orbiting
+MC:161 CLA:164 Buffer:5 CLS:162 CLR:[162, 162, 162, 163, 166, 166, 166]
+
+finding next min value to advance MC
+Advancing MC to 162
+CLR entry after orbiting
+service completion entry
+MC:162 CLA:164 Buffer:4 CLS:172 CLR:[163, 166, 166, 166, 167, 167, 167]
+
+finding next min value to advance MC
+Advancing MC to 163
+CLR entry after orbiting
+MC:163 CLA:164 Buffer:5 CLS:172 CLR:[166, 166, 166, 167, 167, 167]
+
+finding next min value to advance MC
+Advancing MC to 164
+new arrival entry
+MC:164 CLA:170 Buffer:5 CLS:172 CLR:[166, 166, 166, 167, 167, 167, 169]
+
+finding next min value to advance MC
+Advancing MC to 166
+CLR entry after orbiting
+MC:166 CLA:170 Buffer:5 CLS:172 CLR:[167, 167, 167, 169, 171, 171, 171]
+
+finding next min value to advance MC
+Advancing MC to 167
+CLR entry after orbiting
+MC:167 CLA:170 Buffer:5 CLS:172 CLR:[169, 171, 171, 171, 172, 172, 172]
+
+finding next min value to advance MC
+Advancing MC to 169
+CLR entry after orbiting
+MC:169 CLA:170 Buffer:5 CLS:172 CLR:[171, 171, 171, 172, 172, 172, 174]
+
+finding next min value to advance MC
+Advancing MC to 170
+new arrival entry
+MC:170 CLA:176 Buffer:5 CLS:172 CLR:[171, 171, 171, 172, 172, 172, 174, 175]
+
+finding next min value to advance MC
+Advancing MC to 171
+CLR entry after orbiting
+MC:171 CLA:176 Buffer:5 CLS:172 CLR:[172, 172, 172, 174, 175, 176, 176, 176]
+
+finding next min value to advance MC
+Advancing MC to 172
+CLR entry after orbiting
+service completion entry
+MC:172 CLA:176 Buffer:4 CLS:182 CLR:[174, 175, 176, 176, 176, 177, 177, 177]
+
+finding next min value to advance MC
+Advancing MC to 174
+CLR entry after orbiting
+MC:174 CLA:176 Buffer:5 CLS:182 CLR:[175, 176, 176, 176, 177, 177, 177]
+
+finding next min value to advance MC
+Advancing MC to 175
+CLR entry after orbiting
+MC:175 CLA:176 Buffer:5 CLS:182 CLR:[176, 176, 176, 177, 177, 177, 180]
+
+finding next min value to advance MC
+Advancing MC to 176
+CLR entry after orbiting
+new arrival entry
+MC:176 CLA:182 Buffer:5 CLS:182 CLR:[177, 177, 177, 180, 181, 181, 181, 181]
+
+finding next min value to advance MC
+Advancing MC to 177
+CLR entry after orbiting
+MC:177 CLA:182 Buffer:5 CLS:182 CLR:[180, 181, 181, 181, 181, 182, 182, 182]
+
+finding next min value to advance MC
+Advancing MC to 180
+CLR entry after orbiting
+MC:180 CLA:182 Buffer:5 CLS:182 CLR:[181, 181, 181, 181, 182, 182, 182, 185]
+
+finding next min value to advance MC
+Advancing MC to 181
+CLR entry after orbiting
+MC:181 CLA:182 Buffer:5 CLS:182 CLR:[182, 182, 182, 185, 186, 186, 186, 186]
+
+finding next min value to advance MC
+Advancing MC to 182
+CLR entry after orbiting
+new arrival entry
+service completion entry
+MC:182 CLA:188 Buffer:4 CLS:192 CLR:[185, 186, 186, 186, 186, 187, 187, 187, 187]
+
+finding next min value to advance MC
+Advancing MC to 185
+CLR entry after orbiting
+MC:185 CLA:188 Buffer:5 CLS:192 CLR:[186, 186, 186, 186, 187, 187, 187, 187]
+
+finding next min value to advance MC
+Advancing MC to 186
+CLR entry after orbiting
+MC:186 CLA:188 Buffer:5 CLS:192 CLR:[187, 187, 187, 187, 191, 191, 191, 191]
+
+finding next min value to advance MC
+Advancing MC to 187
+CLR entry after orbiting
+MC:187 CLA:188 Buffer:5 CLS:192 CLR:[191, 191, 191, 191, 192, 192, 192, 192]
+
+finding next min value to advance MC
+Advancing MC to 188
+new arrival entry
+MC:188 CLA:194 Buffer:5 CLS:192 CLR:[191, 191, 191, 191, 192, 192, 192, 192, 193]
+
+finding next min value to advance MC
+Advancing MC to 191
+CLR entry after orbiting
+MC:191 CLA:194 Buffer:5 CLS:192 CLR:[192, 192, 192, 192, 193, 196, 196, 196, 196]
+
+finding next min value to advance MC
+Advancing MC to 192
+CLR entry after orbiting
+service completion entry
+MC:192 CLA:194 Buffer:4 CLS:202 CLR:[193, 196, 196, 196, 196, 197, 197, 197, 197]
+
+finding next min value to advance MC
+Advancing MC to 193
+CLR entry after orbiting
+MC:193 CLA:194 Buffer:5 CLS:202 CLR:[196, 196, 196, 196, 197, 197, 197, 197]
+
+finding next min value to advance MC
+Advancing MC to 194
+new arrival entry
+MC:194 CLA:200 Buffer:5 CLS:202 CLR:[196, 196, 196, 196, 197, 197, 197, 197, 199]
+
+finding next min value to advance MC
+Advancing MC to 196
+CLR entry after orbiting
+MC:196 CLA:200 Buffer:5 CLS:202 CLR:[197, 197, 197, 197, 199, 201, 201, 201, 201]
+
+finding next min value to advance MC
+Advancing MC to 197
+CLR entry after orbiting
+MC:197 CLA:200 Buffer:5 CLS:202 CLR:[199, 201, 201, 201, 201, 202, 202, 202, 202]
+
+finding next min value to advance MC
+Advancing MC to 199
+CLR entry after orbiting
+MC:199 CLA:200 Buffer:5 CLS:202 CLR:[201, 201, 201, 201, 202, 202, 202, 202, 204]
+
+finding next min value to advance MC
+Advancing MC to 200
+new arrival entry
+MC:200 CLA:206 Buffer:5 CLS:202 CLR:[201, 201, 201, 201, 202, 202, 202, 202, 204, 205]
+
+finding next min value to advance MC
+Advancing MC to 201
+CLR entry after orbiting
+MC:201 CLA:206 Buffer:5 CLS:202 CLR:[202, 202, 202, 202, 204, 205, 206, 206, 206, 206]
+
+Consolidated Simulation Output Table
+
+
+MC	                 CLA	                 Buffer	                 CLS	                 CLR
+0	                 2	                 0	                 0	                 []
+2	                 8	                 1	                 12	                 []
+8	                 14	                 2	                 12	                 []
+12	                 14	                 1	                 22	                 []
+14	                 20	                 2	                 22	                 []
+20	                 26	                 3	                 22	                 []
+22	                 26	                 2	                 32	                 []
+26	                 32	                 3	                 32	                 []
+32	                 38	                 3	                 42	                 []
+38	                 44	                 4	                 42	                 []
+42	                 44	                 3	                 52	                 []
+44	                 50	                 4	                 52	                 []
+50	                 56	                 5	                 52	                 []
+52	                 56	                 4	                 62	                 []
+56	                 62	                 5	                 62	                 []
+62	                 68	                 4	                 72	                 [67]
+67	                 68	                 5	                 72	                 []
+68	                 74	                 5	                 72	                 [73]
+72	                 74	                 4	                 82	                 [73]
+73	                 74	                 5	                 82	                 []
+74	                 80	                 5	                 82	                 [79]
+79	                 80	                 5	                 82	                 [84]
+80	                 86	                 5	                 82	                 [84, 85]
+82	                 86	                 4	                 92	                 [84, 85]
+84	                 86	                 5	                 92	                 [85]
+85	                 86	                 5	                 92	                 [90]
+86	                 92	                 5	                 92	                 [90, 91]
+90	                 92	                 5	                 92	                 [91, 95]
+91	                 92	                 5	                 92	                 [95, 96]
+92	                 98	                 4	                 102	                 [95, 96, 97]
+95	                 98	                 5	                 102	                 [96, 97]
+96	                 98	                 5	                 102	                 [97, 101]
+97	                 98	                 5	                 102	                 [101, 102]
+98	                 104	                 5	                 102	                 [101, 102, 103]
+101	                 104	                 5	                 102	                 [102, 103, 106]
+102	                 104	                 4	                 112	                 [103, 106, 107]
+103	                 104	                 5	                 112	                 [106, 107]
+104	                 110	                 5	                 112	                 [106, 107, 109]
+106	                 110	                 5	                 112	                 [107, 109, 111]
+107	                 110	                 5	                 112	                 [109, 111, 112]
+109	                 110	                 5	                 112	                 [111, 112, 114]
+110	                 116	                 5	                 112	                 [111, 112, 114, 115]
+111	                 116	                 5	                 112	                 [112, 114, 115, 116]
+112	                 116	                 4	                 122	                 [114, 115, 116, 117]
+114	                 116	                 5	                 122	                 [115, 116, 117]
+115	                 116	                 5	                 122	                 [116, 117, 120]
+116	                 122	                 5	                 122	                 [117, 120, 121, 121]
+117	                 122	                 5	                 122	                 [120, 121, 121, 122]
+120	                 122	                 5	                 122	                 [121, 121, 122, 125]
+121	                 122	                 5	                 122	                 [122, 125, 126, 126]
+122	                 128	                 4	                 132	                 [125, 126, 126, 127, 127]
+125	                 128	                 5	                 132	                 [126, 126, 127, 127]
+126	                 128	                 5	                 132	                 [127, 127, 131, 131]
+127	                 128	                 5	                 132	                 [131, 131, 132, 132]
+128	                 134	                 5	                 132	                 [131, 131, 132, 132, 133]
+131	                 134	                 5	                 132	                 [132, 132, 133, 136, 136]
+132	                 134	                 4	                 142	                 [133, 136, 136, 137, 137]
+133	                 134	                 5	                 142	                 [136, 136, 137, 137]
+134	                 140	                 5	                 142	                 [136, 136, 137, 137, 139]
+136	                 140	                 5	                 142	                 [137, 137, 139, 141, 141]
+137	                 140	                 5	                 142	                 [139, 141, 141, 142, 142]
+139	                 140	                 5	                 142	                 [141, 141, 142, 142, 144]
+140	                 146	                 5	                 142	                 [141, 141, 142, 142, 144, 145]
+141	                 146	                 5	                 142	                 [142, 142, 144, 145, 146, 146]
+142	                 146	                 4	                 152	                 [144, 145, 146, 146, 147, 147]
+144	                 146	                 5	                 152	                 [145, 146, 146, 147, 147]
+145	                 146	                 5	                 152	                 [146, 146, 147, 147, 150]
+146	                 152	                 5	                 152	                 [147, 147, 150, 151, 151, 151]
+147	                 152	                 5	                 152	                 [150, 151, 151, 151, 152, 152]
+150	                 152	                 5	                 152	                 [151, 151, 151, 152, 152, 155]
+151	                 152	                 5	                 152	                 [152, 152, 155, 156, 156, 156]
+152	                 158	                 4	                 162	                 [155, 156, 156, 156, 157, 157, 157]
+155	                 158	                 5	                 162	                 [156, 156, 156, 157, 157, 157]
+156	                 158	                 5	                 162	                 [157, 157, 157, 161, 161, 161]
+157	                 158	                 5	                 162	                 [161, 161, 161, 162, 162, 162]
+158	                 164	                 5	                 162	                 [161, 161, 161, 162, 162, 162, 163]
+161	                 164	                 5	                 162	                 [162, 162, 162, 163, 166, 166, 166]
+162	                 164	                 4	                 172	                 [163, 166, 166, 166, 167, 167, 167]
+163	                 164	                 5	                 172	                 [166, 166, 166, 167, 167, 167]
+164	                 170	                 5	                 172	                 [166, 166, 166, 167, 167, 167, 169]
+166	                 170	                 5	                 172	                 [167, 167, 167, 169, 171, 171, 171]
+167	                 170	                 5	                 172	                 [169, 171, 171, 171, 172, 172, 172]
+169	                 170	                 5	                 172	                 [171, 171, 171, 172, 172, 172, 174]
+170	                 176	                 5	                 172	                 [171, 171, 171, 172, 172, 172, 174, 175]
+171	                 176	                 5	                 172	                 [172, 172, 172, 174, 175, 176, 176, 176]
+172	                 176	                 4	                 182	                 [174, 175, 176, 176, 176, 177, 177, 177]
+174	                 176	                 5	                 182	                 [175, 176, 176, 176, 177, 177, 177]
+175	                 176	                 5	                 182	                 [176, 176, 176, 177, 177, 177, 180]
+176	                 182	                 5	                 182	                 [177, 177, 177, 180, 181, 181, 181, 181]
+177	                 182	                 5	                 182	                 [180, 181, 181, 181, 181, 182, 182, 182]
+180	                 182	                 5	                 182	                 [181, 181, 181, 181, 182, 182, 182, 185]
+181	                 182	                 5	                 182	                 [182, 182, 182, 185, 186, 186, 186, 186]
+182	                 188	                 4	                 192	                 [185, 186, 186, 186, 186, 187, 187, 187, 187]
+185	                 188	                 5	                 192	                 [186, 186, 186, 186, 187, 187, 187, 187]
+186	                 188	                 5	                 192	                 [187, 187, 187, 187, 191, 191, 191, 191]
+187	                 188	                 5	                 192	                 [191, 191, 191, 191, 192, 192, 192, 192]
+188	                 194	                 5	                 192	                 [191, 191, 191, 191, 192, 192, 192, 192, 193]
+191	                 194	                 5	                 192	                 [192, 192, 192, 192, 193, 196, 196, 196, 196]
+192	                 194	                 4	                 202	                 [193, 196, 196, 196, 196, 197, 197, 197, 197]
+193	                 194	                 5	                 202	                 [196, 196, 196, 196, 197, 197, 197, 197]
+194	                 200	                 5	                 202	                 [196, 196, 196, 196, 197, 197, 197, 197, 199]
+196	                 200	                 5	                 202	                 [197, 197, 197, 197, 199, 201, 201, 201, 201]
+197	                 200	                 5	                 202	                 [199, 201, 201, 201, 201, 202, 202, 202, 202]
+199	                 200	                 5	                 202	                 [201, 201, 201, 201, 202, 202, 202, 202, 204]
+200	                 206	                 5	                 202	                 [201, 201, 201, 201, 202, 202, 202, 202, 204, 205]
+201	                 206	                 5	                 202	                 [202, 202, 202, 202, 204, 205, 206, 206, 206, 206]
