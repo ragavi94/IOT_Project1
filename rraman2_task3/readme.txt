@@ -18,6 +18,9 @@ Assumptions:
 	c.	Service Completion
 5.	Number of Batches = 50
 6.	Maxinum number of observations per batch = 1000
+7.	All mean and super mean values are calculated as [sum of values/total number of values]
+8.	Standard Deviation = sqrt(summation((ith value - mean)^2)/total no of values)
+9.	Confidence Intervals = mean +/- (1.96 * (standard_deviation/sqrt(50)))
 
 (1) The driver.py contains the default values from the assumptions made. ie) first entry 0 2 0 - - 
 (2) driver.py calls the simulation() funtion under the handsimulation.py file
