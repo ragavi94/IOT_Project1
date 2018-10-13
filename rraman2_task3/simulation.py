@@ -87,9 +87,7 @@ class Simulation:
 
 	##Actual Simulation Logic
 	def simulation(self,CLA,CLS,CLR,b_size,seed,i):
-		print("i:",i)
-		print("CLA:",self.cla)
-		print("MC:",self.mc)		
+		print("i:",i)	
 		T=0
 		D=0
 		next_mc,clck_str = self.find_min()
